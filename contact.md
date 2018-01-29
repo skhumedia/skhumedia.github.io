@@ -23,19 +23,19 @@ permalink: /contact/
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
         <input type="hidden" name="_language" value="en" />
 
-        <input type="text" name="이름" placeholder="Your name" v-validate="'required'"
+        <input type="text" name="name" placeholder="이름" v-validate="'required'"
                :class="{ 'has-error': errors.has('name') }">
         <span v-if="errors.has('name')" v-cloak>${ errors.first('name') }</span>
 
-        <input type="text" name="이메일" placeholder="Your e-mail" v-validate="'required|email'"
+        <input type="text" name="email" placeholder="이메일" v-validate="'required|email'"
                :class="{ 'has-error': errors.has('email') }">
         <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
 
-        <textarea name="내용" onkeyup="adjust_textarea(this)" placeholder="Your message" v-validate="'required'"
+        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="내용" v-validate="'required'"
                   :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
 
-        <button type="submit">Send</button>
+        <button type="submit">보내기</button>
       </fieldset>
     </form>
   </div>
