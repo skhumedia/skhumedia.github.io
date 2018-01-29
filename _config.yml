@@ -2,7 +2,7 @@
 title: 함께하는 참여언론 | 성공회대학교 미디어센터
 email: skhumedia@outlook.com
 description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/skhumedia/skhumedia.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
