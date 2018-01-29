@@ -1,13 +1,13 @@
 # Site Settings
 title: 함께하는 참여언론 | 성공회대학교 미디어센터
 email: skhumedia@outlook.com
-description: Some text about your blog.
+description: 성공회대학교 공식 언론기관
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/skhumedia/skhumedia.github.io" # the base hostname & protocol for your site
+url: "https://skhumedia.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: MediaCenter
+username: 미디어센터
 user_description: 성공회대학교 공식 언론기관
 
 # Social Media
@@ -30,9 +30,9 @@ links:
   - title: Home
     url: "https://skhumedia.github.io"
   - title: About
-    url: kim-yujin/skhumedia.github.io/about.md/
+    url: /about/
   - title: Contact
-    url: kim-yujin/skhumedia.github.io/contact.md/
+    url: /contact/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
