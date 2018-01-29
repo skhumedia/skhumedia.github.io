@@ -28,11 +28,11 @@ gems:
 # For external links add external: true
 links:
   - title: Home
-    url: "https://github.com/skhumedia/skhumedia.github.io"
+    url: "https://skhumedia.github.io"
   - title: About
-    url: /about/
+    url: kim-yujin/skhumedia.github.io/about.md/
   - title: Contact
-    url: /contact/
+    url: kim-yujin/skhumedia.github.io/contact.md/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
