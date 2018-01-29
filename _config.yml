@@ -1,24 +1,20 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
+title: 함께하는 참여언론 | 성공회대학교 미디어센터
+email: skhumedia@outlook.com
 description: Some text about your blog.
 baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+url: "https://github.com/skhumedia/skhumedia.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
+username: skhumedia
 user_description: Some text about you.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
 facebook_username: facebook_username
-twitter_username: twitter_username
 instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
 
 # Build settings
 markdown: kramdown
@@ -33,7 +29,7 @@ gems:
 # For external links add external: true
 links:
   - title: Home
-    url: /
+    url: "https://github.com/skhumedia/skhumedia.github.io"
   - title: About
     url: /about/
   - title: Contact
