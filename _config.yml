@@ -8,12 +8,11 @@ google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: MediaCenter
-user_description: Some text about you.
-disqus_username: disqus_username
+user_description: 성공회대학교 공식 언론기관
 
 # Social Media
 # Remove the item if you don't need it
-facebook_username: facebook_username
+facebook_username: 성공회대학교 미디어센터
 instagram_username: instagram_username
 
 # Build settings
