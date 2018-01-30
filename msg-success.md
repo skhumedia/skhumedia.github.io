@@ -14,6 +14,6 @@ permalink: /contact/message-sent/
 
 <div class="container">
   <img src="/assets/img/message.gif" width="540" alt="Message sent!">
-  <p><strong>Message sent!</strong></p>
-  <p>Thank you for sending me a message. I'm going to answer ASAP.</p>
+  <p><strong>문의 완료!</strong></p>
+  <p>문의를 주셔서 감사드립니다. 항상 좋은 모습을 보여드리는 미디어센터가 되겠습니다.</p>
 </div>
