@@ -1,26 +1,38 @@
-# Site Settings
+# 기본 설정
+# 웹페이지 타이틀
 title: 함께하는 참여언론 | 성공회대학교 미디어센터
+# 웹페이지 이메일 초기화 할 이메일
 email: skhumedia@outlook.com
+# 웹페이지 요약
 description: 성공회대학교 공식 언론기관
+# 기본 url 설정
 baseurl: "" # the subpath of your site, e.g. /blog
+# 기본 호스트와 프로토콜 설정
 url: "" # the base hostname & protocol for your site
+# 구글 접속자 수 통계 프로그램 유지 설정
 google_analytics: "UA-XXXXXXXX-X"
 
-# User Settings
-username: 미디어센터
+# 사용자 설정
+# 사용자 이름
+username: skhumedia
+# 사용자 요약
 user_description: 성공회대학교 공식 언론기관
 
-# Social Media
-# Remove the item if you don't need it
+# 소셜 미디어
+# 필요한 소셜서비스는 아래 양식과 같이 추가 가능 & 불필요한 소셜서비스는 삭제 가능
 facebook_username: skhu.media.center
-instagram_username: instagram_username
+# youtube_username: youtube_username
 
-# Build settings
+# 빌드 설정
+# 웹페이지 기본 양식
 markdown: kramdown
+# 하이라이터 기본 양식
 highlighter: rouge
+# 첫 접속 페이지 기본 양식
 permalink: /:title/
 
-# Plugins
+# 플러그인
+# 젬 기본 양식
 gems:
   - jemoji
 
@@ -34,5 +46,5 @@ links:
   - title: Contact
     url: /contact/
 
-# Exclude my node related stuff
+# 포함되어있는 노드
 exclude: ['package.json', 'src', 'node_modules']
