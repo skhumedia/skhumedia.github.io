@@ -39,11 +39,15 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: 홈
     url: "https://skhumedia.github.io"
-  - title: About
+  - title: 소개
     url: /about/
-  - title: Contact
+  - title: 학보사
+    url: /h/
+  - title: 방송국
+    url: /b/
+  - title: 문의
     url: /contact/
 
 # 포함되어있는 노드
