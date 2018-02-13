@@ -10,6 +10,11 @@
         <svg><use xlink:href="#icon-facebook"></use></svg>
       </a>
       {% endif %}
+      {% if site.youtube_username %}
+      <a itemprop="youtube" href="https://www.youtube.com/{{ site.facebook_username }}" title="youtube">
+        <svg><use xlink:href="#icon-youtube"></use></svg>
+      {% endif %}
+      </a>
       {% if site.twitter_username %}
       <a itemprop="twitter" href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
         <svg><use xlink:href="#icon-twitter"></use></svg>
