@@ -41,6 +41,7 @@ permalink: /about/
 <h5>내용이 없습니다</h5>
 </center>
 </td>
+<td>
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/b2.jpg" alt="정시은" height="160" width="150">
 <center>
 <h5>정시은</h5>
@@ -59,7 +60,7 @@ permalink: /about/
 
 <hr/>
 <center><strong>수습</strong></center>
-<table style="border:none;">
+<table style="border="none"">
 <tr>
 <td>
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/d1.jpg" alt="정훈태" height="160" width="150">
