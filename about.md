@@ -37,14 +37,12 @@ permalink: /about/
 내용이 없습니다.
 <hr/>
 <center><strong>웹 개발</strong></center> 
-<hr/>
 
 **이현복**
 
 내용이 없습니다.
 <hr/>
 <center><strong>수습</strong></center>
-<hr/>
 
 **정훈태**
 
