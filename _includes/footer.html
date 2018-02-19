@@ -12,7 +12,7 @@
       </a>
       {% endif %}
     </p>
-    <ul>
+    <ul style="display:block;">
         {% for link in site.links %}
           <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
         {% endfor %}
