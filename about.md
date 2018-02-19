@@ -10,8 +10,8 @@ permalink: /about/
 <center><strong>미디어센터장</strong></center>
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/a1.jpg" alt="하지윤" height="160" width="150">
 <center>
-<h5>하지윤</h5>
-<h5>내용이 없습니다</h5>
+<h4>하지윤</h4>
+<h4>내용이 없습니다</h4>
 </center>
 
 <hr/>
@@ -53,20 +53,28 @@ permalink: /about/
 
 <hr/>
 <center><strong>수습</strong></center>
+<table>
+<tr>
+<td>
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/d1.jpg" alt="정훈태" height="160" width="150">
 <center>
 <h5>정훈태</h5>
 <h5>내용이 없습니다</h5>
 </center>
-
+</td>
+<td>
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/d2.jpg" alt="최지훈" height="160" width="150">
 <center>
 <h5>최지훈</h5>
 <h5>내용이 없습니다</h5>
 </center>
-
+</td>
+<td>
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/d3.jpg" alt="김유진" height="160" width="150">
 <center>
 <h5>김유진</h5>
 <h5>내용이 없습니다</h5>
 </center>
+</td>
+</tr>
+</table>
