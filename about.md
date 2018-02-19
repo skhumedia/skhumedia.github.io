@@ -32,20 +32,16 @@ permalink: /about/
 
 <hr/>
 <center><strong>취재</strong></center>
-<div style="float:left; width:50%;">
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/b1.jpg" alt="박병찬" height="160" width="150">
 <center>
 <h5>박병찬</h5>
 <h5>내용이 없습니다</h5>
 </center>
-</div>
-<div style="float:left; width:50%;">
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/b2.jpg" alt="정시은" height="160" width="150">
 <center>
 <h5>정시은</h5>
 <h5>내용이 없습니다</h5>
 </center>
-</div>
 <hr/>
 <center><strong>웹 개발</strong></center> 
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/c1.jpg" alt="이현복" height="160" width="150">
@@ -56,25 +52,19 @@ permalink: /about/
 
 <hr/>
 <center><strong>수습</strong></center>
-<div style="float:left; width:33%;">
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/d1.jpg" alt="정훈태" height="160" width="150">
 <center>
 <h5>정훈태</h5>
 <h5>내용이 없습니다</h5>
 </center>
-</div>
-<div style="float:left; width:33%;">
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/d2.jpg" alt="최지훈" height="160" width="150">
 <center>
 <h5>최지훈</h5>
 <h5>내용이 없습니다</h5>
 </center>
-</div>
-<div style="float:left; width:33%;">
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/d3.jpg" alt="김유진" height="160" width="150">
 <center>
 <h5>김유진</h5>
 <h5>내용이 없습니다</h5>
 </center>
-</div>
 
