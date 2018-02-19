@@ -7,7 +7,7 @@ permalink: /about/
 <center><h1><strong>미디어센터를 소개합니다</strong></h1></center>
 
 <hr/>
-<center><strong>미디어센터장</strong></center>
+<center><strong><h4>미디어센터장</h4></strong></center>
 <img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name" height="160" width="150" alignment="right">
 
 **하지윤**
