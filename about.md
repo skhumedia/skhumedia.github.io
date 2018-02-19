@@ -53,7 +53,7 @@ permalink: /about/
 
 <hr/>
 <center><strong>수습</strong></center>
-<table>
+<table style="border:none;">
 <tr>
 <td>
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/d1.jpg" alt="정훈태" height="160" width="150">
