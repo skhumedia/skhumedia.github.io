@@ -32,17 +32,23 @@ permalink: /about/
 
 <hr/>
 <center><strong>취재</strong></center>
+<table>
+<tr>
+<td>
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/b1.jpg" alt="박병찬" height="160" width="150">
 <center>
 <h5>박병찬</h5>
 <h5>내용이 없습니다</h5>
 </center>
+</td>
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/b2.jpg" alt="정시은" height="160" width="150">
 <center>
 <h5>정시은</h5>
 <h5>내용이 없습니다</h5>
 </center>
-
+</td>
+</tr>
+</table>
 <hr/>
 <center><strong>웹 개발</strong></center> 
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/c1.jpg" alt="이현복" height="160" width="150">
