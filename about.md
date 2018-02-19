@@ -32,7 +32,7 @@ permalink: /about/
 
 <hr/>
 <center><strong>취재</strong></center>
-<table>
+<table style="border:1px solid #000000;">
 <tr>
 <td>
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/b1.jpg" alt="박병찬" height="160" width="150">
