@@ -8,50 +8,58 @@ permalink: /about/
 
 <hr/>
 <center><strong><h4>미디어센터장</h4></strong></center>
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name" height="160" width="150" alignment="right">
+<img itemprop="image" class="img-rounded" src="/assets/img/profile/a1.jpg" alt="하지윤" height="160" width="150">
 
 **하지윤**
 
 내용이 없습니다.
 <hr/>
 <center><strong>방송국장</strong></center>
+<img itemprop="image" class="img-rounded" src="/assets/img/profile/a2.jpg" alt="이의선" height="160" width="150">
 
 **이의선**
 
 내용이 없습니다.
 <hr/>
 <center><strong>편집국장</strong></center>
+<img itemprop="image" class="img-rounded" src="/assets/img/profile/a3.jpg" alt="송다혜" height="160" width="150">
 
 **송다혜**
 
 내용이 없습니다.
 <hr/>
 <center><strong>취재</strong></center>
+<img itemprop="image" class="img-rounded" src="/assets/img/profile/b1.jpg" alt="박병찬" height="160" width="150">
 
 **박병찬**
 
 내용이 없습니다.
+<img itemprop="image" class="img-rounded" src="/assets/img/profile/b2.jpg" alt="정시은" height="160" width="150">
 
 **정시은**
 
 내용이 없습니다.
 <hr/>
 <center><strong>웹 개발</strong></center> 
+<img itemprop="image" class="img-rounded" src="/assets/img/profile/c1.jpg" alt="이현복" height="160" width="150">
 
 **이현복**
 
 내용이 없습니다.
 <hr/>
 <center><strong>수습</strong></center>
+<img itemprop="image" class="img-rounded" src="/assets/img/profile/d1.jpg" alt="정훈태" height="160" width="150">
 
 **정훈태**
 
 내용이 없습니다.
- 
+<img itemprop="image" class="img-rounded" src="/assets/img/profile/d2.jpg" alt="최지훈" height="160" width="150">
+
 **최지훈**
 
 내용이 없습니다.
- 
+<img itemprop="image" class="img-rounded" src="/assets/img/profile/d3.jpg" alt="김유진" height="160" width="150">
+
 **김유진**
 
 내용이 없습니다.
