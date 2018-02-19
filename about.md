@@ -10,8 +10,8 @@ permalink: /about/
 <center><strong>미디어센터장</strong></center>
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/a1.jpg" alt="하지윤" height="160" width="150">
 <center>
-<h4>하지윤</h4>
-<h4>내용이 없습니다</h4>
+<h5>하지윤</h5>
+<h5>내용이 없습니다</h5>
 </center>
 
 <hr/>
@@ -60,7 +60,7 @@ permalink: /about/
 
 <hr/>
 <center><strong>수습</strong></center>
-<table cellpadding="10" style="border: 0px solid #fff">
+<table cellpadding="20" frame="void">
 <tr>
 <td>
 <img itemprop="image" class="img-rounded" src="/assets/img/profile/d1.jpg" alt="정훈태" height="160" width="150">
