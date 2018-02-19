@@ -37,11 +37,13 @@ permalink: /:title/
 gems:
   - jemoji
 
-# Links to include in menu navigation
-# For external links add external: true
+# 메뉴 네비게이션 링크
+# 확장된 링크는 true add external: true 명시
 links:
   - title: 홈
     url: "https://skhumedia.github.io"
+  - title: 소개
+    url: /about/
   - title: 학보사
     url: /h/
   - title: 방송국
