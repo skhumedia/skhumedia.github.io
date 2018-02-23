@@ -45,7 +45,7 @@ links:
   - title: 소개
     url: /about/
   - title: 학보사
-    url: /scholarship/main.html
+    src: /scholarship/main.html
   - title: 방송국
     url: /broadcast/main.html
   - title: 문의
