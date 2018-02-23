@@ -6,7 +6,7 @@ email: skhumedia@outlook.com
 # 웹페이지 요약
 description: 성공회대학교 공식 언론기관
 # 기본 url 설정
-baseurl: "http://skhumedia.ml/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 # 기본 호스트와 프로토콜 설정
 url: "" # the base hostname & protocol for your site
 # 구글 접속자 수 통계 프로그램 유지 설정
