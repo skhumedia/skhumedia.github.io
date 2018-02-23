@@ -41,7 +41,7 @@ gems:
 # 확장된 링크는 true add external: true 명시
 links:
   - title: 홈
-    url: "https://skhumedia.github.io"
+    url: ""
   - title: 소개
     url: /about/
   - title: 학보사
