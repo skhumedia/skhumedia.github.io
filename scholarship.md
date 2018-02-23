@@ -6,7 +6,6 @@ permalink: /scholarship/
 ---
 <!DOCTYPE html>
 <html lang="KR" itemscope itemtype="http://schema.org/WebPage">
-    {% include head.html %}
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
             <section class="content">
