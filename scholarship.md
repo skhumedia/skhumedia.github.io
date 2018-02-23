@@ -9,10 +9,8 @@ permalink: /scholarship/
     {% include head.html %}
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
-        {% include header.html %}
             <section class="content">
                 {{ content }}
             </section>
-        {% include footer.html %}
     </body>
 </html>
