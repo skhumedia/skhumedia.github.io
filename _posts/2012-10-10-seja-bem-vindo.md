@@ -127,16 +127,19 @@ Want to see something else added? <a href="https://github.com/poole/poole/issues
 <section class="author" itemprop="author">
   <div class="details" itemscope itemtype="http://schema.org/Person">
     <center>
-    <div>
-    <p class="def">저자</p>
-    <h3 class="name">이현복</h3>
-    <p class="desc">웹미디어국</p>
-    </div>
-    <div>
-    <p class="def">저자</p>
-    <h3 class="name">김유진</h3>
-    <p class="desc">웹미디어국</p>
-    </div>
-    </center>
-  </div>
+      <table>
+        <tr>
+          <td>
+            <p class="def">저자</p>
+            <h3 class="name">이현복</h3>
+            <p class="desc">웹미디어국</p>
+          </td>
+          <td>
+            <p class="def">저자</p>
+            <h3 class="name">김유진</h3>
+            <p class="desc">웹미디어국</p>
+          </td>
+        </tr>
+    </table>
+  </center>
 </section>
