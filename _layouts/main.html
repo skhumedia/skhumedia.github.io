@@ -41,28 +41,25 @@ layout: compress
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
         {% include header.html %}
-        <p></p>
-        <p></p>
-        <p></p>
-        <div id="slide">
-                <input type="radio" name="pos" id="pos1" checked>
-                <input type="radio" name="pos" id="pos2">
-                <input type="radio" name="pos" id="pos3">
-                <input type="radio" name="pos" id="pos4">
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <p class="pos">
-                    <label for="pos1"></label>
-                    <label for="pos2"></label>
-                    <label for="pos3"></label>
-                    <label for="pos4"></label>
-                </p>
-            </div>
             <section class="content">
+                <div id="slide">
+                    <input type="radio" name="pos" id="pos1" checked>
+                    <input type="radio" name="pos" id="pos2">
+                    <input type="radio" name="pos" id="pos3">
+                    <input type="radio" name="pos" id="pos4">
+                    <ul>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                    <p class="pos">
+                        <label for="pos1"></label>
+                        <label for="pos2"></label>
+                        <label for="pos3"></label>
+                        <label for="pos4"></label>
+                    </p>
+                </div>
                 {{ content }}
             </section>
         {% include footer.html %}
