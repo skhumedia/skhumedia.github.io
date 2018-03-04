@@ -118,7 +118,7 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
   </tbody>
 </table>
 <center>
-  <object type="text/html" width="70%" height="50%" data="https://www.youtube.com/embed/tgbNymZ7vqY" allowFullScreen></object>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allowFullScreen></iframe>
 </center>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
