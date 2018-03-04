@@ -4,51 +4,86 @@ layout: compress
 <!DOCTYPE html>
 <html lang="KR" itemscope itemtype="http://schema.org/WebPage">
     {% include head.html %}
-    <style>
-            *{margin:0;padding:0;}
-            ul,li{list-style:none;}
-            #slide{height:300px;position:relative;overflow:hidden;}
-            #slide ul{width:400%;height:100%;transition:1s;}
-            #slide ul:after{content:"";display:block;clear:both;}
-            #slide li{float:left;width:25%;height:100%;}
-            #slide li:nth-child(1){src: url("assets/img/slide/1.jpg");}
-            #slide li:nth-child(2){src: url("assets/img/slide/2.jpg");}
-            #slide li:nth-child(3){src: url("assets/img/slide/3.jpg");}
-            #slide li:nth-child(4){src: url("assets/img/slide/4.jpg");}
-            #slide input{display:none;}
-            #slide label{display:inline-block;vertical-align:middle;width:10px;height:10px;border:2px solid #000;background: none;transition:0.3s;border-radius:50%;cursor:pointer;}
-            #slide .pos{text-align:center;position:absolute;bottom:10px;left:0;width:100%;text-align:center;}
-            #pos1:checked~ul{margin-left:0%;}
-            #pos2:checked~ul{margin-left:-100%;}
-            #pos3:checked~ul{margin-left:-200%;}
-            #pos4:checked~ul{margin-left:-300%;}
-            #pos1:checked~.pos>label:nth-child(1){background:#fff;}
-            #pos2:checked~.pos>label:nth-child(2){background:#fff;}
-            #pos3:checked~.pos>label:nth-child(3){background:#fff;}
-            #pos4:checked~.pos>label:nth-child(4){background:#fff;}
-        </style>
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
         {% include header.html %}
-            <section class="content">
-                <div id="slide" width="100%" height="500">
-                    <input type="radio" name="pos" id="pos1" checked>
-                    <input type="radio" name="pos" id="pos2">
-                    <input type="radio" name="pos" id="pos3">
-                    <input type="radio" name="pos" id="pos4">
-                    <ul>
-                        <li><img src="assets/img/slide/1.jpg" width="100%" height="100%"></img></li>
-                        <li><img src="assets/img/slide/2.jpg" width="100%" height="100%"></img></li>
-                        <li><img src="assets/img/slide/3.jpg" width="100%" height="100%"></img></li>
-                        <li><img src="assets/img/slide/4.jpg" width="100%" height="100%"></img></li>
+        <div class="demo">
+            <div class="item">            
+                <div class="clearfix" style="max-width:474px;">
+                    <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-1.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-1.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-2.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-2.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-3.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-3.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-4.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-4.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-5.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-5.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-6.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-6.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-7.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-7.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-8.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-8.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-9.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-9.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-10.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-10.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-11.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-11.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-12.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-12.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-13.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-13.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-14.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-14.jpg" />
+                             </li>
+                        <li data-thumb="/SRC2/lightslider/image/thumb/cS-15.jpg"> 
+                            <img src="/SRC2/lightslider/image/cS-15.jpg" />
+                             </li>
                     </ul>
-                    <p class="pos">
-                        <label for="pos1"></label>
-                        <label for="pos2"></label>
-                        <label for="pos3"></label>
-                        <label for="pos4"></label>
-                    </p>
                 </div>
+            </div>
+            <div class="item">
+                <ul id="content-slider" class="content-slider">
+                    <li>
+                        <h3>1</h3>
+                    </li>
+                    <li>
+                        <h3>2</h3>
+                    </li>
+                    <li>
+                        <h3>3</h3>
+                    </li>
+                    <li>
+                        <h3>4</h3>
+                    </li>
+                    <li>
+                        <h3>5</h3>
+                    </li>
+                    <li>
+                        <h3>6</h3>
+                    </li>
+                </ul>
+            </div>
+    
+        </div>
+            <section class="content">
                 {{ content }}
             </section>
         {% include footer.html %}
