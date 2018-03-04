@@ -123,3 +123,23 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+
+<section class="author" itemprop="author">
+  <div class="details" itemscope itemtype="http://schema.org/Person">
+    <p class="def">저자</p>
+    <h3 class="name">이현복</h3>
+    <p class="desc">웹미디어국</p>
+    <p>
+      {% if site.facebook_username %}
+      <a itemprop="facebook" href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
+        <svg><use xlink:href="#icon-facebook"></use></svg>
+      </a>
+      {% endif %}
+      {% if site.instagram_username %}
+      <a itemprop="instagram" href="https://www.youtube.com/{{ site.instagram_username }}" title="youtube">
+        <svg><use xlink:href="#icon-instagram"></use></svg>
+      </a>
+      {% endif %}
+    </p>
+  </div>
+</section>
