@@ -140,6 +140,7 @@ Want to see something else added? <a href="https://github.com/poole/poole/issues
             <p class="desc">웹미디어국</p>
           </td>
         </tr>
-    </table>
-  </center>
+      </table>
+    </center>
+  </div>
 </section>
