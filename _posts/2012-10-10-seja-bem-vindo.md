@@ -130,14 +130,18 @@ Want to see something else added? <a href="https://github.com/poole/poole/issues
       <table>
         <tr>
           <td>
+            <center>
             <p class="def">저자</p>
             <h3 class="name">이현복</h3>
             <p class="desc">웹미디어국</p>
+            </center>
           </td>
           <td>
+            <center>
             <p class="def">저자</p>
             <h3 class="name">김유진</h3>
             <p class="desc">웹미디어국</p>
+            </center>
           </td>
         </tr>
       </table>
