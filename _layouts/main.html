@@ -7,6 +7,65 @@ layout: compress
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
         {% include header.html %}
+                <script language="javascript" type="text/javascript">
+                <!-- Begin
+                var imagepath = "image/"
+                NewImg = new Array (
+                "Photo01.jpg",
+                "Photo02.jpg",
+                "Photo03.jpg",
+                "Photo04.jpg",
+                "Photo05.jpg",
+                "Photo06.jpg",
+                "Photo07.jpg",
+                "Photo08.jpg",
+                "Photo09.jpg",
+                "Photo10.jpg",
+                "Photo11.jpg",
+                "Photo12.jpg",
+                "Photo13.jpg",
+                "Photo14.jpg",
+                "Photo15.jpg"
+                );
+                var ImgNum = 0;
+                var ImgLength = NewImg.length - 1;
+                var delay = 2000; //자동전환시 시간설정(1000=1초)
+                var lock = false;
+                var run;
+                function chgImg(direction) {
+                    if (document.images) {
+                        ImgNum = ImgNum + direction;
+                    if (ImgNum > ImgLength) {
+                        ImgNum = 0;
+                    }
+                    if (ImgNum < 0) {
+                        ImgNum = ImgLength;
+                    }
+                    document.slideshow.src = imagepath+NewImg[ImgNum];
+                   }
+                }
+                function auto() {
+                    if (lock == true) {
+                        lock = false;
+                        window.clearInterval(run);
+                    }
+                    else if (lock == false) {
+                        lock = true;
+                        run = setInterval("chgImg(1)", delay);
+                   }
+                }
+                //  End -->
+                </script>
+                </head>
+                <body onLoad=auto();> <!--자동으로 슬라이드 -->
+                <center>
+                <B>
+                <a href="javascript:chgImg(-1)">Previous</a>
+                | <a href="javascript:auto()">Auto/Stop</a>
+                | <a href="javascript:chgImg(1)">Next</a>
+                </B><p>
+                <img src="image/Photo01.jpg" name="slideshow">
+                </center>
             <section class="content">
                 {{ content }}
             </section>
