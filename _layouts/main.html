@@ -4,6 +4,47 @@ layout: compress
 <!DOCTYPE html>
 <html lang="KR" itemscope itemtype="http://schema.org/WebPage">
     {% include head.html %}
+    <script language="javascript" type="text/javascript">
+        var imagepath = "assets/img/thumb"
+        NewImg = new Array (
+        "cS-1.jpg",
+        "cS-2.jpg",
+        "cS-3.jpg",
+        "cS-4.jpg",
+        "cS-5.jpg",
+        );
+        var ImgNum = 0;
+        var ImgLength = NewImg.length - 1;
+        
+        var delay = 2000; //자동전환시 시간설정(1000=1초)
+        
+        var lock = false;
+        var run;
+        
+        function chgImg(direction) {
+            if (document.images) {
+                ImgNum = ImgNum + direction;
+            if (ImgNum > ImgLength) {
+                ImgNum = 0;
+            }
+            if (ImgNum < 0) {
+                ImgNum = ImgLength;
+            }
+            document.slideshow.src = imagepath+NewImg[ImgNum];
+           }
+        }
+        
+        function auto() {
+            if (lock == true) {
+                lock = false;
+                window.clearInterval(run);
+            }
+            else if (lock == false) {
+                lock = true;
+                run = setInterval("chgImg(1)", delay);
+           }
+        }
+        </script>
     <body class="main-page has-push-menu" onload="auto();">
         {% include svg-icons.html %}
         {% include header.html %}
