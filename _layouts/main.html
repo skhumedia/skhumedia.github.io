@@ -4,9 +4,17 @@ layout: compress
 <!DOCTYPE html>
 <html lang="KR" itemscope itemtype="http://schema.org/WebPage">
     {% include head.html %}
-    <body class="main-page has-push-menu">
+    <body class="main-page has-push-menu" onload="auto();">
         {% include svg-icons.html %}
         {% include header.html %}
+        <center>
+            <B>
+            <a href="javascript:chgImg(-1)">Previous</a>
+            | <a href="javascript:auto()">Auto/Stop</a>
+            | <a href="javascript:chgImg(1)">Next</a>
+            </B><p>
+            <img src="assets/img/thumb/cS-1.jpeg" name="slideshow">
+            </center>
             <section class="content">
                 {{ content }}
             </section>
