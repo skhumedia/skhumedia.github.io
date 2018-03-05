@@ -4,7 +4,7 @@ title: 소개
 description: Some description.
 permalink: /about/
 ---
-<center><h1><strong>미디어센터를 소개합니다</strong></h1></center>
+<center><h1><strong>소개합니다</strong></h1></center>
 
 <hr/>
 <center><strong>미디어센터장</strong></center>
