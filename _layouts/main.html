@@ -4,60 +4,47 @@ layout: compress
 <!DOCTYPE html>
 <html lang="KR" itemscope itemtype="http://schema.org/WebPage">
     {% include head.html %}
-    <script language="javascript" type="text/javascript">
-        var imagepath = "assets/img/thumb"
-        NewImg = new Array (
-        "cS-1.jpg",
-        "cS-2.jpg",
-        "cS-3.jpg",
-        "cS-4.jpg",
-        "cS-5.jpg",
-        );
-        var ImgNum = 0;
-        var ImgLength = NewImg.length - 1;
-        
-        var delay = 2000; //자동전환시 시간설정(1000=1초)
-        
-        var lock = false;
-        var run;
-        
-        function chgImg(direction) {
-            if (document.images) {
-                ImgNum = ImgNum + direction;
-            if (ImgNum > ImgLength) {
-                ImgNum = 0;
-            }
-            if (ImgNum < 0) {
-                ImgNum = ImgLength;
-            }
-            document.slideshow.src = imagepath+NewImg[ImgNum];
-           }
-        }
-        
-        function auto() {
-            if (lock == true) {
-                lock = false;
-                window.clearInterval(run);
-            }
-            else if (lock == false) {
-                lock = true;
-                run = setInterval("chgImg(1)", delay);
-           }
-        }
-        </script>
-    <body class="main-page has-push-menu" onload="auto();">
-        {% include svg-icons.html %}
-        {% include header.html %}
-        <center>
-        <div style="width:100%; height:35%;">
-                <img style="width:100%; height:35%;" src="assets/img/thumb/cS-1.jpg" name="slideshow">
-                <B>
-                <a style="color: #FFF; text-decoration: none;" href="javascript:chgImg(-1)">이전</a>
-                | <a style="color: #FFF; text-decoration: none;" href="javascript:auto()">자동 또는 멈추기</a>
-                | <a style="color: #FFF; text-decoration: none;" href="javascript:chgImg(1)">다음</a>
-                </B><p>
+    <style>
+            *{margin:0;padding:0;}
+            ul,li{list-style:none;}
+            #slide{height:300px;position:relative;overflow:hidden;}
+            #slide ul{width:400%;height:100%;transition:1s;}
+            #slide ul:after{content:"";display:block;clear:both;}
+            #slide li{float:left;width:25%;height:100%;}
+            #slide li:nth-child(1){background:#faa;}
+            #slide li:nth-child(2){background:#ffa;}
+            #slide li:nth-child(3){background:#faF;}
+            #slide li:nth-child(4){background:#aaf;}
+            #slide input{display:none;}
+            #slide label{display:inline-block;vertical-align:middle;width:10px;height:10px;border:2px solid #666;background:#fff;transition:0.3s;border-radius:50%;cursor:pointer;}
+            #slide .pos{text-align:center;position:absolute;bottom:10px;left:0;width:100%;text-align:center;}
+            #pos1:checked~ul{margin-left:0%;}
+            #pos2:checked~ul{margin-left:-100%;}
+            #pos3:checked~ul{margin-left:-200%;}
+            #pos4:checked~ul{margin-left:-300%;}
+            #pos1:checked~.pos>label:nth-child(1){background:#666;}
+            #pos2:checked~.pos>label:nth-child(2){background:#666;}
+            #pos3:checked~.pos>label:nth-child(3){background:#666;}
+            #pos4:checked~.pos>label:nth-child(4){background:#666;}
+        </style>
+        <div id="slide">
+            <input type="radio" name="pos" id="pos1" checked>
+            <input type="radio" name="pos" id="pos2">
+            <input type="radio" name="pos" id="pos3">
+            <input type="radio" name="pos" id="pos4">
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <p class="pos">
+                <label for="pos1"></label>
+                <label for="pos2"></label>
+                <label for="pos3"></label>
+                <label for="pos4"></label>
+            </p>
         </div>
-        </center>
             <section class="content">
                 {{ content }}
             </section>
