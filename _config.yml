@@ -27,7 +27,7 @@ gems:
 # 메뉴 네비게이션 설정
 links:
   - title: 홈
-    url: "skhumedia.github.io"
+    url: "http://skhumedia.github.io"
   - title: 소개
     url: /about/
   - title: 학보사
