@@ -70,4 +70,4 @@ permalink: /about/
 <hr/>
 <center><h1><strong>오시는 길</strong></h1></center>
 <br/>
-<img itemprop="image" src="/assets/img/profile/a1.jpg" alt="오시는 길" height="800" width="624">
+<img itemprop="image" src="/assets/img/profile/a1.jpg" alt="오시는 길" width="800" height="624">
