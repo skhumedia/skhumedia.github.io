@@ -47,6 +47,21 @@ permalink: /about/
 <h5>박병찬</h5>
 <h5>내용이 없습니다</h5>
 </center>
+<center><strong>취재기자</strong></center>
+<center>
+<h5>김인해</h5>
+<h5>내용이 없습니다</h5>
+</center>
+<center><strong>취재기자</strong></center>
+<center>
+<h5>정선호</h5>
+<h5>내용이 없습니다</h5>
+</center>
+<center><strong>편집기자</strong></center>
+<center>
+<h5>최지훈</h5>
+<h5>내용이 없습니다</h5>
+</center>
 <br/>
 <!--웹 미디어국-->
 <hr/>
@@ -71,5 +86,5 @@ permalink: /about/
 <center><h1><strong>오시는 길</strong></h1></center>
 <br/>
 <img itemprop="image" src="/assets/img/profile/a1.jpg" alt="오시는 길" width="800" height="624">
-<strong><h5>주소 | 서울특별시 구로구 연동로 320(항동) 성공회대학교 정보과학관 6104호</h5></strong>
-<strong><h5>전화 | 02-2610-4380, 4395</h5></strong>
+<strong><h5>주소 | 서울특별시 구로구 연동로 320(항동) 성공회대학교 정보과학관 6104호
+전화 | 02-2610-4380, 4395</h5></strong>
