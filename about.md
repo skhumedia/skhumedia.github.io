@@ -47,10 +47,6 @@ permalink: /about/
 <h5>박병찬</h5>
 <h5>내용이 없습니다</h5>
 </center>
-<center>
-<h5>정시은</h5>
-<h5>내용이 없습니다</h5>
-</center>
 <br/>
 <!--웹 미디어국-->
 <hr/>
