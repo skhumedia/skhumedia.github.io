@@ -13,8 +13,8 @@ permalink: /about/
 </center>
 <br/>
 <!--방송국-->
-<center><h3><strong>방송국</strong></h3></center>
 <hr/>
+<center><h3><strong>방송국</strong></h3></center>
 <center><h4>학우들을 위해<br/>학교 일들에 대해서 촬영하고<br/>영상으로 만들어 알려주는 소속이다.</h4></center>
 <center><strong>방송국장</strong></center>
 <center>
