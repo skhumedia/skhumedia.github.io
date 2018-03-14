@@ -6,7 +6,7 @@ permalink: /about/
 ---
 <center><h1><strong>소개합니다</strong></h1></center>
 <br/>
-<center><h3><strong>미디어센터장</strong><h3/></center>
+<center><h3><strong>미디어센터장</strong></h3></center>
 <center>
 <h5>하지윤</h5>
 <h5>내용이 없습니다</h5>
