@@ -11,7 +11,7 @@ permalink: /about/
 <h5>하지윤</h5>
 <h5>내용이 없습니다</h5>
 </center>
-
+<br/>
 <!--방송국-->
 <center><h3><strong>방송국</strong></h3></center>
 <hr/>
@@ -33,7 +33,7 @@ permalink: /about/
 <h5>정훈태</h5>
 <h5>내용이 없습니다</h5>
 </center>
-
+<br/>
 <!--학보사-->
 <hr/>
 <center><h3><strong>학보사</strong></h3></center>
@@ -53,12 +53,13 @@ permalink: /about/
 <h5>정시은</h5>
 <h5>내용이 없습니다</h5>
 </center>
-
+<br/>
 <!--웹 미디어국-->
 <hr/>
 <center><h3><strong>웹 미디어국</strong></h3></center>
 <hr/>
 <center><h5>학우들을 위해<br/>학교 일들에 대해서 글과 영상을 실시간으로 올려주는<br/>웹페이지를 통해 소속이다.</h5></center>
+<br/>
 <center><strong>미디어 센터장</strong></center>
 <center>
 <h5>하지윤</h5>
