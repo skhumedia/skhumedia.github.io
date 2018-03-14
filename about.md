@@ -15,7 +15,7 @@ permalink: /about/
 <!--방송국-->
 <hr/>
 <center><h3><strong>방송국</strong></h3></center>
-<div style= border: 1px solid #000;><center><h4>학우들을 위해<br/>학교 일들에 대해서 촬영하고<br/>영상으로 만들어 알려주는 소속</h4></center></div>
+<center><h4>학우들을 위해<br/>학교 일들에 대해서 촬영하고<br/>영상으로 만들어 알려주는 소속</h4></center>
 <center><strong>방송국장</strong></center>
 <center>
 <h5>이의선</h5>
