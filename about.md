@@ -67,3 +67,7 @@ permalink: /about/
 <h5>김유진</h5>
 <h5>내용이 없습니다</h5>
 </center>
+<hr/>
+<center><h1><strong>오시는 길</strong></h1></center>
+<br/>
+<img src="assets\img\profile\1.jpg">
