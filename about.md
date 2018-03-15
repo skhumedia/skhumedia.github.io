@@ -6,33 +6,11 @@ permalink: /about/
 ---
 <center><h1><strong>소개합니다</strong></h1></center>
 <br/>
-<table>
-<tr>
-<td>
 <center><strong>미디어센터장</strong></center>
 <center>
 <h5>하지윤</h5>
 <h5>내용이 없습니다</h5>
-</td>
-</tr>
-<tr>
-<td>
-<center><strong>방송국장</strong></center>
-<center>
-<h5>하지윤</h5>
-<h5>내용이 없습니다</h5>
-</tr>
-</td>
-<tr>
-<td>
-<center><strong>편집국장</strong></center>
-<center>
-<h5>하지윤</h5>
-<h5>내용이 없습니다</h5>
-</tr>
-</td>
 </center>
-</table>
 <br/>
 <!--방송국-->
 <hr/>
