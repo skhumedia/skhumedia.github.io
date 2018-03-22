@@ -47,12 +47,10 @@ permalink: /about/
 <h5>박병찬</h5>
 <h5>내용이 없습니다</h5>
 </center>
-<br/>
 <center>
 <h5>김인해</h5>
 <h5>내용이 없습니다</h5>
 </center>
-<br/>
 <center>
 <h5>정선호</h5>
 <h5>내용이 없습니다</h5>
@@ -77,7 +75,6 @@ permalink: /about/
 <h5>이현복</h5>
 <h5>내용이 없습니다</h5>
 </center>
-<br/>
 <center>
 <h5>김유진</h5>
 <h5>내용이 없습니다</h5>
