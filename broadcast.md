@@ -7,7 +7,7 @@ permalink: /broadcast/
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
-    {% for post in site.broadposts %}
+    {% for post in site.posts %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
             <span class="category">
                 <a href="{{ site.url }}{{ site.baseurl }}/categoria/{{ post.category }}">
