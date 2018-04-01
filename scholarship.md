@@ -4,7 +4,13 @@ title: 학보사
 description: 학보사 컨텐츠
 permalink: /scholarship/
 ---
-
+<center><h1><strong>학보사</strong></h1></center>
+<center>
+<h4><a href=""><strong>컨텐츠 1</strong></a></h4>
+<h4><a href=""><strong>컨텐츠 2</strong></a></h4>
+<h4><a href=""><strong>컨텐츠 3</strong></a></h4>
+</center>
+<hr/>
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
