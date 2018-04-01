@@ -5,8 +5,14 @@ description: 방송국 컨텐츠
 permalink: /broadcast/
 ---
 <center><h1><strong>방송국</strong></h1></center>
-<a href=""><h4>컨텐츠 1</h4></a>  <a href=""><h4>컨텐츠 2</h4></a>  <a href=""><h4>컨텐츠 3</h4></a>
-
+<table border="0">
+    <tr>
+        <td><a href=""><h4><strong>컨텐츠 1</strong></h4></a></td>
+        <td><a href=""><h4><strong>컨텐츠 2</strong></h4></a></td>
+        <td><a href=""><h4><strong>컨텐츠 3</strong></h4></a></td>
+    </tr>
+</table>
+<hr/>
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
