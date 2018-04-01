@@ -4,6 +4,7 @@ title: 방송국
 description: 방송국 컨텐츠
 permalink: /broadcast/
 ---
+<div>
 <br/>
 <center><h1><strong>방송국</strong></h1></center>
 <table>
@@ -14,6 +15,7 @@ permalink: /broadcast/
     </tr>
 </table>
 <hr/>
+<div>
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
