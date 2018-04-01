@@ -6,6 +6,7 @@ permalink: /broadcast/
 ---
 <center><h1><strong>방송국</strong></h1></center>
 | <h4>컨텐츠 1</h4> | <h4>컨텐츠 2</h4> | <h4>컨텐츠 3</h4> |
+|:-----:|:-----:|:-----:|
 <hr/>
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
