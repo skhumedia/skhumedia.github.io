@@ -12,7 +12,7 @@ permalink: /broadcast/
         <td><a href=""><h4><strong>컨텐츠 3</strong></h4></a></td>
     </tr>
 </table>
-<strong><hr/></strong>
+<hr/>
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
