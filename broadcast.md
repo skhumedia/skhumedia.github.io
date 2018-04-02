@@ -8,7 +8,7 @@ permalink: /broadcast/
 <center>
 <table>
 <tr>
-<td><h4><a href=""><strong>컨텐츠 1</strong></a></h4></td>
+<td style = "border : 1px solid #000; border-radius: 8%; color: #000; font-size: auto"><h4><a href=""><strong>컨텐츠 1</strong></a></h4></td>
 <td><h4><a href=""><strong>컨텐츠 2</strong></a></h4></td>
 <td><h4><a href=""><strong>컨텐츠 3</strong></a></h4></td>
 </tr>
