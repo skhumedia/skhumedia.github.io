@@ -11,7 +11,7 @@ permalink: /scholarship/
 <h4><a href=""><strong>컨텐츠 3</strong></a></h4>
 </center>
 <hr/>
-<div style="heigth: 400px;">
+<div class=".scoladiv">
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
