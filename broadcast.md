@@ -4,9 +4,9 @@ title: 방송국
 description: 방송국 컨텐츠
 permalink: /broadcast/
 ---
-<center><h1><strong>방송국</strong></h1></center>
+<div style="text-align:left"><h1><strong>방송국</strong></h1></div>
 <center>
-<table style="text-align: left">
+<table>
 <tr>
 <td style = "border : 4px solid #000; border-radius: 15%; color: #000; font-size: auto; text-align:center"><h4><a href=""><strong>컨텐츠 1</strong></a></h4></td>
 <td style = "border : 4px solid #000; border-radius: 15%; color: #000; font-size: auto; text-align:center"><h4><a href=""><strong>컨텐츠 2</strong></a></h4></td>
