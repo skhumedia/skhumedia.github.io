@@ -4,7 +4,7 @@ title: 방송국
 description: 방송국 컨텐츠
 permalink: /broadcast/
 ---
-<div style="text-align:left"><h1><strong>방송국</strong></h1></div>
+<center><h1><strong>방송국</strong></h1></center>
 <center>
 <table>
 <tr>
