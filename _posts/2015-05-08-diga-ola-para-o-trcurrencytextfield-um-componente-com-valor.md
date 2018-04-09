@@ -3,11 +3,9 @@ layout: post
 title: "Diga olá para o TRCurrencyTextField: Um componente com valor."
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807365/now-you-see-me_wtv89q.jpg'
-category: 'mobile'
+category: '사진기획'
 tags:
-- component
-- ios
-- cocoapods
+- 사진기획
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---

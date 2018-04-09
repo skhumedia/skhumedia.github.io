@@ -3,11 +3,9 @@ layout: post
 title: "Desafio aceito. Fazendo uma app do Dribbble do zero"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807658/barney-stinson_eqt7kc.jpg'
-category: 'mobile'
+category: '폴인'
 tags:
-- app
-- mobile
-- ios
+- 폴인 
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---

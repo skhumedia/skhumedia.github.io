@@ -3,11 +3,9 @@ layout: post
 title: "Como fazer um Hello World com Vue.js 2"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1504810464/hello-world-vue_ibatoy.jpg'
-category: 'tutorial'
+category: '문화'
 tags:
-- vuejs
-- javascript
-- tutorial
+- 문화
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---

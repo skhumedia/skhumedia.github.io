@@ -2,10 +2,9 @@
 layout: post
 title: "Por que o Sketch vale 3 tanques de gasolina?"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'webdev'
+category: '자유기고'
 tags:
-- design
-- sketch
+- 자유기고
 image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1501102987/sketch-fuel_eiwjbz.png'
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
