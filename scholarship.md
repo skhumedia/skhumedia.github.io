@@ -8,9 +8,9 @@ permalink: /scholarship/
 <center>
 <table>
 <tr>
-<td style = "font-size: auto; text-align:center"><h4><a href=""><strong>2016</strong></a></h4></td>
-<td style = "font-size: auto; text-align:center"><h4><a href=""><strong>2017</strong></a></h4></td>
-<td style = "font-size: auto; text-align:center"><h4><a href=""><strong>2018</strong></a></h4></td>
+<td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>2016</strong></a></h4></td>
+<td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>2017</strong></a></h4></td>
+<td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>2018</strong></a></h4></td>
 </tr>
 </table>
 </center>

@@ -8,9 +8,9 @@ permalink: /broadcast/
 <center>
 <table>
 <tr>
-<td style = "font-size: auto; text-align:center"><h4><a href=""><strong>컨텐츠 1</strong></a></h4></td>
-<td style = "font-size: auto; text-align:center"><h4><a href=""><strong>컨텐츠 2</strong></a></h4></td>
-<td style = "font-size: auto; text-align:center"><h4><a href=""><strong>컨텐츠 3</strong></a></h4></td>
+<td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>시은티비</strong></a></h4></td>
+<td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>스쿠터 뉴스</strong></a></h4></td>
+<td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>미센 직캠</strong></a></h4></td>
 </tr>
 </table>
 </center>
