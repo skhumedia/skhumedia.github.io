@@ -17,7 +17,7 @@ permalink: /scholarship/
 <hr/>
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <h1>2018</h1>
+    <center><h1 style="color: #686868;opacity: 0.7;">2018</h1></center>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %} 
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
