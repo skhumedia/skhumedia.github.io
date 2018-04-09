@@ -42,7 +42,7 @@ FILE_NAME="${CURRENT_DATE}-${POST_NAME}.md"
 
 # Set your destination folder
 BINPATH=$(cd `dirname $0`; pwd)
-POSTPATH="${BINPATH}/_posts"
+POSTPATH="${BINPATH}/_bposts"
 DIST_FOLDER="$POSTPATH"
 
 # Set your blog URL
