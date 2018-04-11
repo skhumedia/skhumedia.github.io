@@ -7,7 +7,7 @@ category: '단신'
 tags:
 - 단신 
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction:
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
@@ -153,7 +153,3 @@ Want to see something else added? <a href="https://github.com/poole/poole/issues
     </center>
   </div>
 </section>
-<div>
-<a href="" style="width: 10%; height: auto; float: left;">전 글</a>
-<a herf="" style="width: 10%; height: auto; float: right;">후 글</a>
-</div>
