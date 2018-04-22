@@ -12,7 +12,7 @@ introduction:
 <!-- 단신 1 -->
 <center><h2><strong>학부방 4개, 새천년관 1층에 신설</strong></h2></center>
 <center><h3>기존 컴퓨터실은 7105로 이전, 건강증진센터는 축소화</h3></center>
-<center><h5><br/>
+<center><br/>
   우리 대학은 학부 개편에 따라 지난달 10일부터 21일까지 새천년관 1층에 위치하던 컴퓨터실,<br/>
 건강증진센터, 7102를 학부 사무실(이하 학부방) 4개소로 개편하는 공사를 진행했다. 기존 컴퓨터실<br/>
 은 7105로 축소 이전하고, 건강증진센터는 원래 규모보다 축소화됐다. 학부방은 과방과 같은 학생 <br/>
@@ -34,7 +34,7 @@ introduction:
 럽다”고 전했다.<br/>
 <br/>
 <time style="text-align:left">글 송다혜 기자</time>
-</h5></center>
+</center>
 <!-- 단신 2 -->
 
 <center><h2><strong>중앙도서관 복사기 교체</strong></h2></center>
