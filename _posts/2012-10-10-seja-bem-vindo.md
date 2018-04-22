@@ -9,126 +9,37 @@ tags:
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction:
 ---
+<!-- 단신 1 -->
+<center><h2><strong>학부방 4개, 새천년관 1층에 신설</strong></h2></center>
+<center><h3>기존 컴퓨터실은 7105로 이전, 건강증진센터는 축소화<h3></center>
+<h5><br></br>
+  우리 대학은 학부 개편에 따라 지난달 10일부터 21일까지 새천년관 1층에 위치하던 컴퓨터실,
+건강증진센터, 7102를 학부 사무실(이하 학부방) 4개소로 개편하는 공사를 진행했다. 기존 컴퓨터실
+은 7105로 축소 이전하고, 건강증진센터는 원래 규모보다 축소화됐다. 학부방은 과방과 같은 학생 
+쉼터 공간으로, 전공을 선택하지 않은 학부 소속 학생이 사용 대상이다.
+<br></br>
+  작년 12월부터 총학생회 비상대책위원회(이하 총학 비대위)와 학교 측은 학부방 신설에 관한 논
+의를 이어 왔다. 처음 계획한 학부방 신설 위치는 학관 지하의 세미나실이었다. 그러나 견적이 
+6,500만 원가량 나오자 더불어숲대학교육혁신원(이하 혁신원)은 현재의 위치로 제안을 변경했다. 
+이에 총학은 반대 의견을 전하고 처음 제안 그대로 진행해 줄 것을 요구했으나, 학교 측은 지난
+달 8일 공사를 강행했다.
+<br></br>
+  공사가 강행된 다음 날 총학 비대위 측은 긴급 성명서를 통해 ‘학교가 학생을 학내 구성원으로 
+생각하는지 의문’이라며, 공사를 강행한 혁신원장 정원오 부총장과 이남주 열림교양대학장에게 사
+과문을 요구했다.
+<br></br>
+  이남주 열림교양대학장은 공사를 강행한 이유에 대해 “~”라고 말했다. 황도현 총학 비대위장은 
+“제안에 대해 우려를 표했음에도 불구하고 강행한 정원오 부총장과 이남주 열림교양대학장은 분
+명히 비판받아야 한다. 학생들의 의견이 그 두 명의 독단적인 행동으로 무시당하는 것이 유감스
+럽다”고 전했다.
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+                                                                      글 송다혜 기자
+<h5>
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-## Inline HTML elements
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-<center>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allowFullScreen></iframe>
-</center>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
-
+<!-- 글쓴이 들 -->
 <section class="author" itemprop="author">
   <div class="details" itemscope itemtype="http://schema.org/Person">
     <center>
