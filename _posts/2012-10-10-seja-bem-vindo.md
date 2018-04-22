@@ -37,7 +37,6 @@ introduction:
 
 <!-- 단신 2 -->
 <br/>
-<br/>
 <center><h2><strong>중앙도서관 복사기 교체</strong></h2></center>
 <center><h3>복사카드 결제용에서 신용카드 및 T-money 카드용으로</h3></center>
 
@@ -56,7 +55,7 @@ introduction:
 글 | 박병찬 기자
 
 <!-- 단신 3 -->
-
+<br/>
 <center><h2><strong>만남의 입학식 열렸다</strong></h2></center>
 <center><h3>토크 콘서트 및 총장과의 질의응답 시간 갖기도</h3></center>
 
@@ -94,7 +93,6 @@ introduction:
 다.
 
 글 | 박병찬 기자
-
 
 <!-- 글쓴이 들 -->
 <section class="author" itemprop="author">
