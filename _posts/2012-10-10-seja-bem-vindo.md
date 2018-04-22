@@ -57,9 +57,8 @@ introduction:
 
 <!-- 단신 3 -->
 
-<center><h2><strong>만남의 입학식 열렸다</center></h2></strong>
-<center><h3>토크 콘서트 및 총장과의 질의응답 시간 갖기도</center></h3>
-
+<center><h2><strong>만남의 입학식 열렸다</strong></h2></center>
+<center><h3>토크 콘서트 및 총장과의 질의응답 시간 갖기도</h3></center>
 
 &nbsp; &nbsp;우리 대학은 지난달 22일 서울 중구 소재 대한성공회 서울주교좌성당에서 입학식을 진행했다. 
 이번 입학식에는 토크 콘서트와 함께 총장과의 질의응답 시간을 마련해 총장-교수-신입생과 학부
