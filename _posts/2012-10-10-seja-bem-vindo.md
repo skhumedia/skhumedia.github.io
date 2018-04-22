@@ -33,13 +33,13 @@ introduction:
 명히 비판받아야 한다. 학생들의 의견이 그 두 명의 독단적인 행동으로 무시당하는 것이 유감스<br/>
 럽다”고 전했다.<br/>
 <br/>
-<h5 style="text-align:left">글 송다혜 기자</h5>
+<time style="text-align:left">글 송다혜 기자</time>
 </h5></center>
 <!-- 단신 2 -->
 
 <center><h2><strong>중앙도서관 복사기 교체</strong></h2></center>
 <center><h3>복사카드 결제용에서 신용카드 및 T-money 카드용으로</h3></center>
-<center><h5><br/>
+<center><br/>
   중앙도서관은 지난 겨울방학 중 도서관 지하 1층 흑백용 프린터와 1층 세미나룸Ⅰ 내 컬러용<br/> 
 프린터를 신용카드 및 T-money 카드용 복합기로 교체했다. 3층에 있는 복사카드 결제용 복사기는 <br/>
 개강 후에도 그대로 유지되나, 4월 말 이후 철수될 예정이다.<br/>
@@ -52,8 +52,8 @@ introduction:
 고 말했다. 이어 “도서관 복사기를 이용했던 학생 가운데 저작권법의 허용 범위를 초과해 복사하<br/>
 는 경우가 있었다. 현행 저작권법에 유의하여 복합기를 사용할 것을 당부한다”는 말을 전했다.<br/>
 <br/>
-<h5 style="text-align:left">글 박병찬 기자</h5>
-</h5></center>
+<time style="text-align:left">글 박병찬 기자</time>
+</center>
 
 
 <!-- 글쓴이 들 -->
