@@ -9,6 +9,9 @@ tags:
 twitter_text: 
 introduction:
 ---
+<h1 style="coler:#E6E6E6">단신<h1>
+<hr/>
+
 <!-- 단신 1 -->
 <center><h2><strong>학부방 4개, 새천년관 1층에 신설</strong></h2></center>
 <center><h3>기존 컴퓨터실은 7105로 이전, 건강증진센터는 축소화</h3></center>
