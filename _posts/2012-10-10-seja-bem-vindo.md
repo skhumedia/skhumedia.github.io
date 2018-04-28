@@ -333,7 +333,7 @@ SNS에 고이 모셔진다. ‘jane_yellow’. 이름부터 ‘노랑노랑’�
 &nbsp; &nbsp; 현재 우리 대학 종합정보시스템 모바일 앱으로는 개발동아리 ‘s.owl’(구 정보보호소모임 ‘sss’)이 
 개발한 ‘foressst’가 있다. 전문 개발 인력이 아니라, 소프트웨어 개발에 관심 있는 학우들이 자발
 적으로 모여 만든 앱이다.
-<‘s.owl’ 회장 한나라(정통 3) 학우 인터뷰>
+<h3 style="text-align:center;color:#000;"><strong> &lt;‘s.owl’ 회장 한나라(정통 3) 학우 인터뷰&gt; </strong></h3>
 
 
 <h3 style="color:#4B8A08;">‘foressst’는 언제부터 개발하기 시작했나.</h3>
