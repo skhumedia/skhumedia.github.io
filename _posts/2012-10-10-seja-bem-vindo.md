@@ -265,7 +265,7 @@ SNS에 고이 모셔진다. ‘jane_yellow’. 이름부터 ‘노랑노랑’�
 야 하는 점이 불편하긴 하다.”</i>
 
 
-<img itemprop="image" src="/assets/img/scholarship/2018_3/3월호_폴인_사진2.jpg" alt="3월호_폴인_사진2" width="800" height="auto">
+<img itemprop="image" src="/assets/img/scholarship/2018_3/3월호_폴인_사진2.jpg" alt="3월호_폴인_사진2" width="400" height="auto">
 
 
 <h3 style="color :#F7FE2E;text-align:center;">색은 그 자체로 뭔가를 표현한다</h3>
@@ -303,18 +303,19 @@ SNS에 고이 모셔진다. ‘jane_yellow’. 이름부터 ‘노랑노랑’�
 답해드립니다!
 
 
-(리드)
 &nbsp; &nbsp; 학적 관리, 교과 과정 확인, 등록 관리를 포함해 휴학 신청, 수강신청 등을 할 수 있는 종합정
 보시스템. 우리 대학 종합정보시스템을 이용하는 방법으로는 컴퓨터로 웹사이트에 접속하거나 모
 바일에서 ‘foressst’ 앱을 내려받는 두 가지 방법이 있다. 종합정보시스템을 관리하는 학교 전자계
 산소와 모바일 앱 ‘foressst’ 개발자인 개발동아리 ‘s.owl’ 회장을 만나 보았다.
 
 
-(본문)
 &nbsp; &nbsp; 우리 대학 종합정보시스템 웹사이트 주소는 ‘http://forest.skhu.ac.kr’이다. 접속하기 위해 검색창
 에 주소를 직접 입력해도 되고, 포털사이트에 ‘성공회대 종합정보시스템’이라고 검색해 나온 링크
 를 클릭해도 된다. 학교 홈페이지 메인 화면의 ‘종합정보시스템’ 버튼을 눌러도 바로 접속할 수 
 있다.
+
+
+<img itemprop="image" src="/assets/img/scholarship/2018_3/3월호_기획보도1_전자계산소.jpg" alt="3월호_기획보도1_전자계산소" width="800" height="auto">
 
 
 <h3 style="text-align:center;color:#000;"><strong> &lt;전자계산소 정창수 팀장 인터뷰&gt; </strong></h3>
@@ -360,9 +361,15 @@ SNS에 고이 모셔진다. ‘jane_yellow’. 이름부터 ‘노랑노랑’�
 템 개발을 학교 내부에서 진행하고 있기 때문이다. 설사 개발을 한다고 해도 유지관리 인력이 부
 족할 것으로 본다.
 
+
+<img itemprop="image" src="/assets/img/scholarship/2018_3/3월호_기획보도1_foressst.jpg" alt="3월호_기획보도1_foressst" width="400" height="auto">
+
+
+
 &nbsp; &nbsp; 현재 우리 대학 종합정보시스템 모바일 앱으로는 개발동아리 ‘s.owl’(구 정보보호소모임 ‘sss’)이 
 개발한 ‘foressst’가 있다. 전문 개발 인력이 아니라, 소프트웨어 개발에 관심 있는 학우들이 자발
 적으로 모여 만든 앱이다.
+
 <h3 style="text-align:center;color:#000;"><strong> &lt;‘s.owl’ 회장 한나라(정통 3) 학우 인터뷰&gt; </strong></h3>
 
 
