@@ -10,7 +10,7 @@ permalink: /about/
 
 <table style="border: none;">
 <tr>
-<td style="width: 30%; height: auto;">
+<td style="width: 30%; height: auto; border: 0px;">
 <center><h3><strong>방송국</strong></h3></center>
 <center><h4 style="font-weight: lighter">촬영 및 편집</h4></center>
 </td>
