@@ -10,7 +10,7 @@ permalink: /about/
 
 <table style="border: none;">
 <tr>
-<td style="width: 30%; height: auto; border: none;";>
+<td style="width: 30%; height: auto; border: none;">
 <center><h3><strong>방송국</strong></h3></center>
 <center><h4>학우들을 위해<br/>학교 일들에 대해서 촬영하고<br/>영상으로 만들어 알려주는 소속</h4></center>
 </td>
@@ -18,7 +18,7 @@ permalink: /about/
 <br/>
 
 
-<td style="width: 30%; height: auto">
+<td style="width: 30%; height: auto; border: none;">
 <center><h3><strong>학보사</strong></h3></center>
 <center><h4>학우들을 위해<br/>학교 일들에 대해서 글을 쓰고 사진을 찍고<br/>학보를 만들어 알려주는 소속</h4></center>
 </td>
@@ -26,7 +26,7 @@ permalink: /about/
 <br/>
 
 
-<td style="width: 30%; height: auto">
+<td style="width: 30%; height: auto; border: none;">
 <center><h3><strong>웹 미디어국</strong></h3></center>
 <center><h4>학우들을 위해<br/>학교 일들에 대해서 글과 영상을 실시간으로 올려주는<br/>웹페이지를 통해 소속</h4></center>
 </td>
