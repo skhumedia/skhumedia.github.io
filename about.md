@@ -38,7 +38,7 @@ permalink: /about/
 
 <br/>
 
-<img src="./assets/img/map/a1.jpg" style="width: auto; height: 800px;" />
+<img src="./assets/img/map/a1.jpg" style="width: 50%; height: auto;" />
 
 <center><h5>주소 | 서울특별시 구로구 연동로 320(항동) 성공회대학교 정보과학관 6104호</h5></center>
 <center><h5>전화 | 02-2610-4380, 4395</h5></center>
