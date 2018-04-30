@@ -41,7 +41,7 @@ permalink: /broadcast/
                         {% include date.html date=broadcast-post.date %}
                     </time>
                     <a class="post-link" href="{{ broadcast-post.url | prepend: site.baseurl }}">
-                        <h2 class="post-title" itemprop="name">
+                        <h2 class="broadcast-post-title" itemprop="name">
                             {{ broadcast-post.title }}
                         </h2>
                     </a>
