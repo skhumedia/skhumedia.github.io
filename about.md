@@ -8,12 +8,6 @@ permalink: /about/
 <center><h1><strong>소개합니다</strong></h1></center>
 <br/>
 
-<center><h3><strong>성공회대학교 공식 언론기관</strong></h3></center>
-<center><h4>미디어센터</h4></center>
-
-
-<br/>
-
 <table style="border: none;">
 <tr>
 <td style="width: 30%; height: auto">
@@ -43,6 +37,16 @@ permalink: /about/
 <hr/>
 <center><h1><strong>오시는 길</strong></h1></center>
 <br/>
-<img itemprop="image" src="/assets/img/profile/a1.jpg" alt="오시는 길" width="800" height="auto">
+<div id="map" style="width: 800; height: auto;"></div>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey="7cf148ee54e4b6f39262d5bb6c187cd7"></script>
+<script>
+	var container = document.getElementById('map');
+	var options = {
+		center: new daum.maps.LatLng(37.4874699, 126.82575380000003),
+		level: 3
+	};
+	var map = new daum.maps.Map(container, options);
+</script>
+
 <center><h5>주소 | 서울특별시 구로구 연동로 320(항동) 성공회대학교 정보과학관 6104호</h5></center>
 <center><h5>전화 | 02-2610-4380, 4395</h5></center>
