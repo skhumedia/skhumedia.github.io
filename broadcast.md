@@ -9,15 +9,15 @@ permalink: /broadcast/
 <center>
 <table>
 <tr>
-<td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>시은티비</strong></a></h4></td>
-<td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>스쿠터 뉴스</strong></a></h4></td>
-<td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>미센 직캠</strong></a></h4></td>
+<td style = "font-size: auto; text-align:center;"><h4 style="color: #000;text-decoration: none;"><a href="#"><strong>시은티비</strong></a></h4></td>
+<td style = "font-size: auto; text-align:center;"><h4 style="color: #000;text-decoration: none;"><a href="#"><strong>스쿠터 뉴스</strong></a></h4></td>
+<td style = "font-size: auto; text-align:center;"><h4 style="color: #000;text-decoration: none;"><a href="#"><strong>미센 직캠</strong></a></h4></td>
 </tr>
 </table>
 </center>
 <hr/>
 
-<main class="home" id="broadcast-post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+<main class="broadcast" id="broadcast-post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
     {% for broadcast-post in site.posts %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
