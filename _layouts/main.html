@@ -12,5 +12,15 @@ layout: compress
                 {{ content }}
             </section>
         {% include footer.html %}
+        <script type="text/javascript"src="//dapi.kakao.com/v2/maps/sdk.js?appkey=7cf148ee54e4b6f39262d5bb6c187cd7"></script>
+
+        <script>
+          var container = document.getElementById('map');
+          var options = {
+            center: new daum.maps.LatLng(37.4874699, 126.82575380000003),
+            level: 3
+          };
+          var map = new daum.maps.Map(container, options);
+        </script>
     </body>
 </html>
