@@ -8,8 +8,6 @@ permalink: /scholarship/
 <center>
 <table>
 <tr>
-<td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>2016</strong></a></h4></td>
-<td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>2017</strong></a></h4></td>
 <td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>2018</strong></a></h4></td>
 </tr>
 </table>
@@ -19,7 +17,7 @@ permalink: /scholarship/
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <center><h1 style="color: #686868;opacity: 0.7;">2018</h1></center>
     <div id="grid" class="row flex-grid">
-    {% for post in site.posts %} 
+    {% for post in site.posts %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
             <span class="category">
                 <a href="{{ site.url }}{{ site.baseurl }}/categoria/{{ post.category }}">
