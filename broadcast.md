@@ -17,11 +17,11 @@ permalink: /broadcast/
 <hr/>
 <main class="home" id="broadcast-post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
-    {% for post in site.posts %}
+    {% for broadcast-post in site.posts %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
             <span class="category">
                 <a href="{{ site.url }}{{ site.baseurl }}/categoria/{{ broadcast-post.category }}">
-                    <span>{{ post.category }}</span>
+                    <span>{{ broadcast-post.category }}</span>
                 </a>
             </span>
             <div class="box-body">
