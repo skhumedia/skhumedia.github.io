@@ -33,12 +33,15 @@ permalink: /about/
 </tr>
 </table>
 
-
 <hr/>
 <center><h1><strong>오시는 길</strong></h1></center>
+
 <br/>
+
 <div id="map" style="width: 800; height: auto;"></div>
+
 <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey="7cf148ee54e4b6f39262d5bb6c187cd7"></script>
+
 <script>
 	var container = document.getElementById('map');
 	var options = {
