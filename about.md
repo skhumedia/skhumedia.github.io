@@ -8,14 +8,11 @@ permalink: /about/
 <center><h1><strong>소개합니다</strong></h1></center>
 <br/>
 
-|      방송국     |      학보사      |     웹미디어국      |
-| 촬영 및 영상 편집 | 기사 작성 및 인터뷰 | 홈페이지 개발 및 관리 |
-
 <table style="border: none;">
 <tr>
 <td style="width: 30%; height: auto;">
 <center><h3><strong>방송국</strong></h3></center>
-<center><h5 style="font-weight: light">촬영 및 편집</h5></center>
+<center><h4 style="font-weight: lighter">촬영 및 편집</h4></center>
 </td>
 
 <br/>
@@ -23,7 +20,7 @@ permalink: /about/
 
 <td style="width: 30%; height: auto;">
 <center><h3><strong>학보사</strong></h3></center>
-<center><h5 style="font-weight: light">기사 작성 및 인터뷰</h5></center>
+<center><h4 style="font-weight: lighter">기사 작성 및 인터뷰</h4></center>
 </td>
 
 <br/>
@@ -31,7 +28,7 @@ permalink: /about/
 
 <td style="width: 30%; height: auto;">
 <center><h3><strong>웹 미디어국</strong></h3></center>
-<center><h5 style="font-weight: light">홈페이지 관리 및 개발</h5></center>
+<center><h4 style="font-weight: lighter">홈페이지 관리 및 개발</h4></center>
 </td>
 </tr>
 </table>
@@ -43,7 +40,7 @@ permalink: /about/
 
 <div id="map" style="width: 800; height: auto; border: none;"></div>
 
-<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey="7cf148ee54e4b6f39262d5bb6c187cd7"></script>
+<script type="text/javascript"src="//dapi.kakao.com/v2/maps/sdk.js?appkey="7cf148ee54e4b6f39262d5bb6c187cd7"></script>
 
 <script>
 	var container = document.getElementById('map');
