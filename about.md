@@ -8,6 +8,9 @@ permalink: /about/
 <center><h1><strong>소개합니다</strong></h1></center>
 <br/>
 
+|      방송국     |      학보사      |     웹미디어국      |
+| 촬영 및 영상 편집 | 기사 작성 및 인터뷰 | 홈페이지 개발 및 관리 |
+
 <table style="border: none;">
 <tr>
 <td style="width: 30%; height: auto;">
