@@ -67,15 +67,4 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-
-    <script type="text/javascript"src="//dapi.kakao.com/v2/maps/sdk.js?appkey=7cf148ee54e4b6f39262d5bb6c187cd7"></script>
-
-    <script>
-    	var container = document.getElementById('map');
-    	var options = {
-    		center: new daum.maps.LatLng(37.4874699, 126.82575380000003),
-    		level: 3
-    	};
-    	var map = new daum.maps.Map(container, options);
-    </script>
 </head>
