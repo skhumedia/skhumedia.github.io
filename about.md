@@ -18,7 +18,7 @@ permalink: /about/
 <br/>
 
 
-<td style="width: 30%; height: auto;">
+<td style="width: 30%; height: auto; border: 0px;">
 <center><h3><strong>학보사</strong></h3></center>
 <center><h4 style="font-weight: lighter">기사 작성 및 인터뷰</h4></center>
 </td>
@@ -26,7 +26,7 @@ permalink: /about/
 <br/>
 
 
-<td style="width: 30%; height: auto;">
+<td style="width: 30%; height: auto; border: 0px;">
 <center><h3><strong>웹 미디어국</strong></h3></center>
 <center><h4 style="font-weight: lighter">홈페이지 관리 및 개발</h4></center>
 </td>
@@ -38,7 +38,7 @@ permalink: /about/
 
 <br/>
 
-<div id="map" style="width: 800; height: auto; border: none;"></div>
+<div id="map" style="width: 800; height: auto; border: 0px;"></div>
 
 <script type="text/javascript"src="//dapi.kakao.com/v2/maps/sdk.js?appkey="7cf148ee54e4b6f39262d5bb6c187cd7"></script>
 
