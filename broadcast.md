@@ -7,7 +7,7 @@ permalink: /broadcast/
 
 <center><h1><strong>방송국</strong></h1></center>
 
-<main class="broadcast" id="broadcast-post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+<main class="home" id="broadcast-post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
     {% for broadcast-post in site.posts %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
