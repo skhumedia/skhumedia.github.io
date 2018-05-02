@@ -6,7 +6,7 @@ permalink: /broadcast/
 ---
 <center><h1><strong>방송국</strong></h1></center>
 
-<main class="home" id="broadcast-post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+<main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <center><h1 style="color: #686868;opacity: 0.7;">스쿠터뉴스</h1></center>
     <div id="grid" class="row flex-grid">
     {% for broadcast-post in site.posts %}
