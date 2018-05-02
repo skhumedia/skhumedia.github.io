@@ -5,14 +5,6 @@ description: 학보사 컨텐츠
 permalink: /scholarship/
 ---
 <center><h1><strong>학보사</strong></h1></center>
-<center>
-<table>
-<tr>
-<td style = "font-size: auto; text-align:center; text-decoration: none;"><h4><a href=""><strong>2018</strong></a></h4></td>
-</tr>
-</table>
-</center>
-<hr/>
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <center><h1 style="color: #686868;opacity: 0.7;">2018</h1></center>
