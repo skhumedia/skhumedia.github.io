@@ -8,7 +8,7 @@
         <section class="broadcast-post">
 
             <article role="article" id="broadcast-post" class="broadcast-post-content" itemprop="articleBody">
-                <p itemprop="post-info" class="post-info">
+                <p itemprop="broadcast-post-info" class="broadcast-post-info">
                     {% if page.date %}
                         <svg id="date" class="icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
                         <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">
@@ -18,7 +18,7 @@
                     <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
                     <span>{{ minutesText }}</span>
                 </p>
-                <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
+                <h1 class="broadcast-post-title" itemprop="name">{{ page.title }}</h1>
                 <p itemprop="description" class="subtitle">{{ page.description }}</p>
 
                 {{ content }}

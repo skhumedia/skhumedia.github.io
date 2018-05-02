@@ -13,13 +13,13 @@ permalink: /broadcast/
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
             <span class="category">
                 <a href="{{ site.url }}{{ site.baseurl }}/categoria/{{ post.category }}">
-                    <span>{{ broadcast-post.category }}</span>
+                    <span>{{ post.category }}</span>
                 </a>
             </span>
             <div class="box-body">
                 {% if post.image %}
                     <div class="cover">
-                        {% include new-post-tag.html date=broadcast-post.date %}
+                        {% include new-post-tag.html date=post.date %}
                         <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
                             <img src="assets/img/placeholder.png" data-url="{{ post.image }}" class="preload">
                         </a>
@@ -28,11 +28,11 @@ permalink: /broadcast/
                 <div class="box-info">
                     <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
                     <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
-                        {% include date.html date=broadcast-post.date %}
+                        {% include date.html date=post.date %}
                     </time>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <h2 class="post-title" itemprop="name">
-                            {{ post.title }}
+                            {{ broadcast-post.title }}
                         </h2>
                     </a>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
