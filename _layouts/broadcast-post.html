@@ -7,7 +7,7 @@
         {% include header.html %}
         <section class="broadcast-post">
 
-            <article role="article" id="broadcast-post" class="broadcast-post-content" itemprop="articleBody">
+            <articleb role="articleb" id="broadcast-post" class="broadcast-post-content" itemprop="articleBody">
                 <p itemprop="broadcast-post-info" class="broadcast-post-info">
                     {% if page.date %}
                         <svg id="date" class="icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
@@ -22,7 +22,7 @@
                 <p itemprop="description" class="subtitle">{{ page.description }}</p>
 
                 {{ content }}
-            </article>
+            </articleb>
 
             <div class="progress-bar" data-minutes="{{ totalMinutes }}">
                 <span class="time-completed"></span>
