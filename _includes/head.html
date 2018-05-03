@@ -67,4 +67,16 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+    
+    <link rel="stylesheet" href="/maps/documentation/javascript/demos/demos.css">
+    <script>
+        function initMap() {
+            // Create a map object and specify the DOM element for display.
+            var map = new google.maps.Map(document.getElementById('map'), {
+                center: {lat: 37.4874699, lng: 126.82575380000003},
+                zoom: 20
+            });
+            }
+        </script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByqTU4-vIcv5aOKQU4zh66l66Cpu1L26wY&callback=initMap" async defer></script>
 </head>
