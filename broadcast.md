@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: broadcast
 title: 방송국
 description: 방송국 컨텐츠
 permalink: /broadcast/
+category: /category/
 ---
 <center><h1><strong>방송국</strong></h1></center>
 
