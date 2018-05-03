@@ -36,7 +36,19 @@ permalink: /about/
 
 <br/>
 
-<img src="assets/img/map/a1.jpg" style="width: 50%; height: auto;" />
+<link rel="stylesheet" href="/maps/documentation/javascript/demos/demos.css">
+    <div id="map"></div>
+    <script>
+      function initMap() {
+        // Create a map object and specify the DOM element for display.
+        var map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: 37.4874699, lng: 126.82575380000003},
+          zoom: 18
+        });
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByqTU4-vIcv5aOKQU4zh66l66Cpu1L26wY&callback=initMap"
+    async defer></script>
 
 <center><h5>주소 | 서울특별시 구로구 연동로 320(항동) 성공회대학교 정보과학관 6104호</h5></center>
 <center><h5>전화 | 02-2610-4380, 4395</h5></center>
