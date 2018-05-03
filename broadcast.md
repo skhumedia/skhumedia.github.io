@@ -10,7 +10,6 @@ permalink: /broadcast/
     <center><h1 style="color: #686868;opacity: 0.7;">스쿠터뉴스</h1></center>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
-        {% for tag int post.tag=스쿠터뉴스 %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
             <span class="category">
                 <a href="{{ site.url }}{{ site.baseurl }}/categoria/{{ post.category }}">
@@ -47,7 +46,6 @@ permalink: /broadcast/
                 </div>
             </div>
         </article>
-        {% endfor %}
     {% endfor %}
     </div>
 </main>
