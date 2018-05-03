@@ -30,8 +30,8 @@ links:
     url: /about/
   - title: 학보사
     url: /scholarship/
-  - title: 방송국
-    url: /broadcast/
+  #- title: 방송국
+    #url: /broadcast/
   - title: 문의
     url: /contact/
 
