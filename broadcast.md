@@ -3,7 +3,6 @@ layout: broadcast
 title: 방송국
 description: 방송국 컨텐츠
 permalink: /broadcast/
-category: /category/
 ---
 <center><h1><strong>방송국</strong></h1></center>
 
@@ -11,7 +10,7 @@ category: /category/
     <center><h1 style="color: #686868;opacity: 0.7;">스쿠터뉴스</h1></center>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
-        <articleb class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+        <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
             <span class="category">
                 <a href="{{ site.url }}{{ site.baseurl }}/categoria/{{ post.category }}">
                     <span>{{ post.category }}</span>
@@ -46,7 +45,7 @@ category: /category/
                     </div>
                 </div>
             </div>
-        </articleb>
+        </article>
     {% endfor %}
     </div>
 </main>
