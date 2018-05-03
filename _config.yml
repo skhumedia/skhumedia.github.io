@@ -23,7 +23,18 @@ permalink: /:title/
 # 플러그인
 gems:
   - jemoji
+  - jekyll-archives
 
+jekyll-archives:
+  enabled: []
+  layout: 'archive'
+  permalinks:
+  year: '/:year/'
+  month: '/:year/:month/'
+  day: '/:year/:month/:day/'
+  tag: '/tag/:name/'
+  category: '/category/:name/'
+  
 # 메뉴 네비게이션 설정
 links:
   - title: 소개
