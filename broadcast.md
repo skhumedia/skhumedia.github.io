@@ -1,5 +1,5 @@
 ---
-layout: broadcast
+layout: archive
 title: 방송국
 description: 방송국 컨텐츠
 permalink: /broadcast/
