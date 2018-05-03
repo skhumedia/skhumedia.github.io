@@ -10,7 +10,7 @@ category: /category/
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <center><h1 style="color: #686868;opacity: 0.7;">스쿠터뉴스</h1></center>
     <div id="grid" class="row flex-grid">
-    {% for broadcast-post in site.posts %}
+    {% for post in site.posts %}
         <articleb class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
             <span class="category">
                 <a href="{{ site.url }}{{ site.baseurl }}/categoria/{{ post.category }}">
@@ -33,7 +33,7 @@ category: /category/
                     </time>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <h2 class="post-title" itemprop="name">
-                            {{ broadcast-post.title }}
+                            {{ post.title }}
                         </h2>
                     </a>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
