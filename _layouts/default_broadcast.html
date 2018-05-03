@@ -76,8 +76,10 @@ layout: compress
     <body class="has-push-menu">
         {% include svg-icons.html %}
         {% include header.html %}
-            <section class="broadcast-content">
+            <section class="content">
+              {% for tag in post.tags=스쿠터뉴스 %}
                 {{ content }}
+              {% endfor %}
             </section>
         {% include footer.html %}
     </body>

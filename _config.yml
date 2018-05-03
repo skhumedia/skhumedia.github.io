@@ -7,7 +7,7 @@ url: "" # 웹페이지의 기본 호스트이름 & 프로토콜 설정
 google_analytics: "UA-XXXXXXXX-X" # 구글 접속자 수 통계 프로그램 유지 설정
 
 # 사용자 설정
-username: 미디어센터 # 사용자 이름 설정
+username: MediaCenter # 사용자 이름 설정
 user_description: 성공회대학교 공식 언론기관 # 사용자 요약 설정
 
 # 소셜 서비스
