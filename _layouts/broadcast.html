@@ -2,9 +2,14 @@
 layout: default_broadcast
 ---
 
-<link rel="stylesheet" href="{{ "/assets/css/broadcast.css" | prepend: site.baseurl }}">
-<div class="broadcast-post">
-  <articleb class="broadcast-post-content">
-    {{ content }}
-  </articleb>
+<link rel="stylesheet" href="{{ "/assets/css/scholarship.css" | prepend: site.baseurl }}">
+<div class="post">
+  <ul>
+    {% for post in site.categories.broadcast %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+    <article class="post-content">
+      {{ content }}
+    </article>
 </div>
