@@ -7,7 +7,8 @@ permalink: /scholarship/
 <center><h1><strong>학보사</strong></h1></center>
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <center><h1 style="color: #686868;opacity: 0.7;">2018</h1></center>
+    <center><h1 style="color: #686868; opacity: 0.7;">2018</h1></center>
+    <h3 style="#BDBDBD;">3월</h3>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
