@@ -7,7 +7,7 @@ layout: main
     </div>
     <div class="content2" style="margin-right: 4%; width: 40%; height: auto; color: #fff; border: 2px solid #fff; position: absolute; left: 55%; top: 0%;">
         <table class="tr" style="font-size: 80%;">
-            <tr><td><a href="" style="color:#fff; text-decoration:none;">학부방 4개, 새천년관 1층에 신설</a></td></tr>
+            <tr><td><a href="https://skhumedia.github.io/10-%EB%8B%A8%EC%8B%A01/" style="color:#fff; text-decoration:none;">학부방 4개, 새천년관 1층에 신설</a></td></tr>
             <tr><td><a href="" style="color:#fff; text-decoration:none;">오늘도 평화로에 갑니다.</a></td></tr>
             <tr><td><a href="" style="color:#fff; text-decoration:none;">노랑, 내가 만드는 행복의 공식-조재인</a></td></tr>
             <tr><td><a href="" style="color:#fff; text-decoration:none;">개발자들에게 직접 듣는 종합정보 시스템 이야기</a></td></tr>
