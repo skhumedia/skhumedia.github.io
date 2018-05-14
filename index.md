@@ -5,7 +5,7 @@ layout: main
     <div class="content1" style="margin: 10% 0% 0% 4%; width: 50%; height: auto; color: #fff;">
     <center><img src="/assets/img/scholarship/2018_3/사진기획1.jpg" width="100%" height="auto" style="border-radius:5%"></center>
     </div>
-    <div class="content2" style="margin-right: 4%; width: 40%; height: auto; color: #fff; border: 2px solid #fff;">
+    <div class="content2" style="margin-right: 4%; width: 40%; height: auto; color: #fff; border: 2px solid #fff; position: absolute; left: 55%; top: 0%;">
         <table class="tr" style="font-size: 80%;">
             <tr><td><a href="" style="color:#fff; text-decoration:none;">학부방 4개, 새천년관 1층에 신설</a></td></tr>
             <tr><td><a href="" style="color:#fff; text-decoration:none;">오늘도 평화로에 갑니다.</a></td></tr>
