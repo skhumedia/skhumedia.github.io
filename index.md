@@ -2,7 +2,7 @@
 layout: main
 ---
 <div style="width: 100%;">
-    <div class="content1" style="margin: 10% 0% 0% 4%; width: 50%; height: auto; color: #fff;">
+    <div class="content1" style="margin: 0% 0% 0% 4%; width: 50%; height: auto; color: #fff;">
     <center><img src="/assets/img/scholarship/2018_3/사진기획1.jpg" width="100%" height="auto" style="border-radius:5%"></center>
     </div>
     <div class="content2" style="margin-right: 4%; width: 40%; height: auto; color: #fff; border: 2px solid #fff; position: absolute; left: 55%; top: 0%;">
