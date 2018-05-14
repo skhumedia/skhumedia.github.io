@@ -1,9 +1,9 @@
 ---
 layout: main
 ---
-<div style="width: 100%; margin: 80px 0 0px 0px;">
+<div style="width: 100%;">
     <div class="content1" style="margin-left: 4%; float: left; width: 50%; height: auto; color: #fff;">
-    <center><img src="1.jpg" width="100%" height="auto" style="border-radius:5%"></center>
+    <center><img src="/assets/img/scholarship/2018_3/사진기획1.jpg" width="100%" height="auto" style="border-radius:5%"></center>
     </div>
     <div class="content2" style="margin-right: 4%; float: right; width: 40%; height: auto; color: #fff; border: 2px solid #fff;">
         <table class="tr" style="font-size: 80%;">
