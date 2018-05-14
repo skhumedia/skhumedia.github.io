@@ -8,11 +8,11 @@ layout: main
     <div class="content2" style="margin-right: 4%; width: 40%; height: auto; color: #fff; border: 2px solid #fff; position: absolute; left: 55%; top: 11%;">
         <table class="tr" style="font-size: 80%;">
             <tr><td><a href="https://skhumedia.github.io/10-%EB%8B%A8%EC%8B%A01/" style="color:#fff; text-decoration:none;">학부방 4개, 새천년관 1층에 신설</a></td></tr>
-            <tr><td><a href="" style="color:#fff; text-decoration:none;">오늘도 평화로에 갑니다.</a></td></tr>
-            <tr><td><a href="" style="color:#fff; text-decoration:none;">노랑, 내가 만드는 행복의 공식-조재인</a></td></tr>
-            <tr><td><a href="" style="color:#fff; text-decoration:none;">개발자들에게 직접 듣는 종합정보 시스템 이야기</a></td></tr>
-            <tr><td><a href="" style="color:#fff; text-decoration:none;">가해자에게 느끼는 연민과 가해자 옹호</a></td></tr>
-            <tr><td><a href="" style="color:#fff; text-decoration:none;">3월호 기고</a></td></tr>
+            <tr><td><a href="https://skhumedia.github.io/07-%EC%82%AC%EC%A7%84%EA%B8%B0%ED%9A%8D/" style="color:#fff; text-decoration:none;">오늘도 평화로에 갑니다.</a></td></tr>
+            <tr><td><a href="https://skhumedia.github.io/06-%ED%8F%B4%EC%9D%B8/" style="color:#fff; text-decoration:none;">노랑, 내가 만드는 행복의 공식-조재인</a></td></tr>
+            <tr><td><a href="https://skhumedia.github.io/05-%EA%B8%B0%ED%9A%8D%EB%B3%B4%EB%8F%84/" style="color:#fff; text-decoration:none;">개발자들에게 직접 듣는 종합정보 시스템 이야기</a></td></tr>
+            <tr><td><a href="https://skhumedia.github.io/03-%EB%AC%B8%ED%99%94/" style="color:#fff; text-decoration:none;">가해자에게 느끼는 연민과 가해자 옹호</a></td></tr>
+            <tr><td><a href="https://skhumedia.github.io/01-%EC%9E%90%EC%9C%A0%EA%B8%B0%EA%B3%A0/" style="color:#fff; text-decoration:none;">3월호 기고</a></td></tr>
         </table>
     </div>
 </div>
