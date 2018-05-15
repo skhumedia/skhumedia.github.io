@@ -1,0 +1,39 @@
+# 기본설정
+title: 함께하는 참여언론 | 성공회대학교 미디어센터 # 웹페이지 큰 제목 설정
+email: skhumedia@outlook.com # 웹페이지 관리자 이메일 설정
+description: 성공회대학교 공식 언론기관 # 웹페이지 요약 설정
+baseurl: "" # 웹페이지 서브 경로 설정
+url: "" # 웹페이지의 기본 호스트이름 & 프로토콜 설정
+google_analytics: "UA-XXXXXXXX-X" # 구글 접속자 수 통계 프로그램 유지 설정
+
+# 사용자 설정
+username: MediaCenter # 사용자 이름 설정
+user_description: 성공회대학교 공식 언론기관 # 사용자 요약 설정
+
+# 소셜 서비스
+# 필요한 소셜서비스는 아래 양식과 같이 추가 가능 & 불필요한 소셜서비스는 삭제 가능
+facebook_username: skhu.media.center
+youtube_username: skhumedia
+
+# 빌드 설정
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# 플러그인
+gems:
+  - jemoji
+
+# 메뉴 네비게이션 설정
+links:
+  - title: 소개
+    url: /about/
+  - title: 학보사
+    url: /scholarship/
+  #- title: 방송국
+    #url: /broadcast/
+  - title: 문의
+    url: /contact/
+
+# 노드 설정
+exclude: ['package.json', 'src', 'node_modules']

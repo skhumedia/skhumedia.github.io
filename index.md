@@ -1,6 +1,8 @@
 ---
-layout: main
+layout: home
 ---
+<<<<<<< HEAD
+=======
 <div style="width: 100%;">
     <div class="content1" style="padding:6% 0 0 0%; margin: 0% 0% 0% 4%; width: 50%; height: auto; color: #fff;">
     <center><img src="/assets/img/scholarship/2018_3/사진기획1.jpg" width="100%" height="auto" style="border-radius:5%"></center>
@@ -61,3 +63,4 @@ layout: main
     {% endfor %}
     </div>
 </main> -->
+>>>>>>> fae28bc3dd9f12da81e52ae762332c5d9ee2dcdc
