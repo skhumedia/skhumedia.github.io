@@ -1,0 +1,33 @@
+<!-- 웹페이지 하단의 정보 -->
+<footer>
+    <p>
+      <!-- 바닥 부분 : 페이스북 경로 -->
+      {% if site.facebook_username %}
+      <a itemprop="facebook" href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
+        <svg><use xlink:href="#icon-facebook"></use></svg>
+      </a>
+      {% endif %}
+      </a>
+      <!-- 바닥 부분 : 유튜브 경로 -->
+      {% if site.youtube_username %}
+      <a itemprop="youtube" href="https://www.youtube.com/{{ site.youtube_username }}" title="youtube">
+        <svg><use xlink:href="#icon-youtube"></use></svg>
+      </a>
+      {% endif %}
+    </p>
+    <!-- 바닥 부분 : 메뉴 -->
+    <div style="float:left; width:50%;">
+    <ul>
+        {% for link in site.links %}
+          <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+    </ul>
+    </div>
+    <!-- 바닥 부분 : 주소록 -->
+    <div style="float:left; width:50%; display:inline-block;">
+    <p style="font-size:10pt;">주소 | 서울특별시 구로구 연동로 320(항동) 성공회대학교 정보과학관 6104호<br/>전화 | 02-2610-4380, 4395</p>
+    <p><span>2018 &copy;MediaCenter</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by WebMedia Stations</p>
+    </div>
+</footer>
+<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+{% include stats.html %}

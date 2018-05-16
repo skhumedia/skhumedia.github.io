@@ -1,0 +1,13 @@
+<!-- 메뉴 부분을 누를 때 생기는 곳 -->
+<aside id="sidebar">
+    <nav id="navigation">
+      <!-- "메뉴"라는 곳을 알려주는 부분 -->
+      <h2>메뉴</h2>
+      <!-- 다른 곳으로 들어갈 수 있는 부분 -->
+      <ul>
+        {% for link in site.links %}
+          <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+</aside>
