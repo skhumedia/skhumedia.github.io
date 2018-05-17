@@ -9,7 +9,7 @@ layout: about
 <tr>
 <td style="width: 30%; height: auto; border: 0px;">
 <center><h3><strong>방송국</strong></h3></center>
-<center><h4 style="font-weight: lighter">촬영 및 편집</h4></center>
+<center><h4 style="font-weight: lighter">영상촬영 및 영상편집</h4></center>
 </td>
 
 <br/>
