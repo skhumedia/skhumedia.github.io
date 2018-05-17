@@ -8,12 +8,22 @@
     </li>
   {% endif %}
 
-  {% if site.github_username %}
-    <li>{% include icon-github.html username=site.github_username label='GitHub' %}</li>
+  {% if site.facebook_username %}
+    <li>
+      <a href="https://www.facebook.com/{{ include.username }}">
+      <span class="icon icon--facebook">{% include icon-facebook.svg %}</span>
+      <span class="label">{{ include.label | default: include.username }}</span>
+    </a>
+  </li>
   {% endif %}
 
-  {% if site.twitter_username %}
-    <li>{% include icon-twitter.html username=site.twitter_username label='Twitter' %}</li>
+  {% if site.youtube_username %}
+    <li>
+      <a href="https://www.youtube.com/{{ include.username }}">
+      <span class="icon icon--youtube">{% include icon-youtube.svg %}</span>
+      <span class="label">{{ include.label | default: include.username }}</span>
+    </a>
+  </li>
   {% endif %}
 <!--
   <li>
