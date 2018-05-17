@@ -1,5 +1,7 @@
 ---
-title: "미디어센터 홈페이지에 오신 것을 환영합니다."
+title: "함께하는 참여언론"
 layout: home
-image: /assets/images/banner.png
+image:
 ---
+
+## 미디어센터 홈페이지에 오신 것을 환영합니다.
