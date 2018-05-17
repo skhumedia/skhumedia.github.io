@@ -22,9 +22,9 @@ baseurl: /skhumedia.github.io # 사용자 사이트의 선택적 하위 페이�
 url: "https://skhumedia.github.io" # 당신의 사이트를 위한 기본 호스트 이름과 프로토콜을 설정합니다. "https://skhumedia.github.io"
 author: # 다음은 저자입니다. (탭핑 된 영역 참조)
   name: 미디어센터 홈페이지 관리자 # 사이트 관리자는 MediaCenter Admin으로 표기합니다. (가능하면 편집하지 마세요.)
-  picture: /assets/icons/basically-basic-logo-light.svg # 미디어 센터의 로고가 들어갑니다.
+  picture: /assets/images/banner.png # 미디어 센터의 로고가 들어갑니다.
   facebook_username: skhu.media.center # 미디어 센터 페이스북 페이지 계정이 들어갑니다.
-logo: /assets/images/logo.png # 사이트 로고 경로(예: /assets/images/logo.png)
+logo: /assets/images/logo.jpg # 사이트 로고 경로(예: /assets/images/logo.png)
 search: true # 검색기능을 끄거나 켭니다. (true or false)
 search_full_content: false # 검색의 기능을 강화합니다. (true or false)
 search_provider: lunr # 검색을 제공하는 참조영역을 설정합니다. (lunr or algolia)
