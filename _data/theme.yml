@@ -16,6 +16,8 @@ t:
   newer: "이전"
   older: "다음"
   email: "이메일로 문의"
+  facebook: "페이스북 페이지"
+  youtube: "유튜브"
   subscribe: "구독하기"
   read_more: "더 자세히"
   posts: "올라온 글"
