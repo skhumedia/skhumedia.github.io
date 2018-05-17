@@ -10,21 +10,22 @@
 
   {% if site.facebook_username %}
     <li>
-      <a href="https://www.facebook.com/{{ include.username }}">
-      <span class="icon icon--facebook">{% include icon-facebook.svg %}</span>
-      <span class="label">{{ include.label | default: include.username }}</span>
-    </a>
+      <a href="https://www.facebook.com/{{ include.facebook_username }}">
+        <span class="icon icon--facebook">{% include icon-facebook.svg %}</span>
+        <span class="label">{{ include.label | default: include.username }}</span>
+      </a>
   </li>
   {% endif %}
 
   {% if site.youtube_username %}
     <li>
-      <a href="https://www.youtube.com/{{ include.username }}">
-      <span class="icon icon--youtube">{% include icon-youtube.svg %}</span>
-      <span class="label">{{ include.label | default: include.username }}</span>
-    </a>
+      <a href="https://www.youtube.com/{{ include.youtube_username }}">
+        <span class="icon icon--youtube">{% include icon-youtube.svg %}</span>
+        <span class="label">{{ include.label | default: include.username }}</span>
+      </a>
   </li>
   {% endif %}
+
 <!--
   <li>
     {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' %}
@@ -35,4 +36,5 @@
     {% endif %}
   </li>
 -->
+
 </ul>
