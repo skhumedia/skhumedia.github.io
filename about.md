@@ -3,6 +3,8 @@ title: "소개합니다"
 layout: about
 ---
 
+<center>
+<hr/>
 <table style="border: none;">
 <tr>
 <td style="width: 30%; height: auto; border: 0px;">
@@ -33,4 +35,4 @@ layout: about
 
 <center><h5>주소 | 서울특별시 구로구 연동로 320(항동) 성공회대학교 정보과학관 6104호</h5></center>
 <center><h5>전화 | 02-2610-4380, 4395</h5></center>
-
+</center>
