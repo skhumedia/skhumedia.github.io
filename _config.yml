@@ -86,5 +86,5 @@ defaults:
       path: "_recipes"
       type: recipes
     values:
-      layout: posts
+      layout: post
       read_time: true
