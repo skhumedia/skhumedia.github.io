@@ -23,10 +23,9 @@
         <span class="icon icon--youtube">{% include icon-youtube.svg %}</span>
         <span class="label">{{ include.label | default: include.username }}</span>
       </a>
-  </li>
+    </li>
   {% endif %}
 
-<!--
   <li>
     {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' %}
       <a href="{{ site.feed.path | default: 'feed.xml' | relative_url }}" title="Atom Feed">
@@ -35,6 +34,5 @@
       </a>
     {% endif %}
   </li>
--->
 
 </ul>
