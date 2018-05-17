@@ -17,8 +17,8 @@ lang: en-US
 title: 미디어센터
 email: skhumedia@outlook.com
 description:
-baseurl: /62yujin.github.io # the optional subpath of your site, e.g. "/blog"
-url: "https://skhumeida.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: /skhumedia.github.io # the optional subpath of your site, e.g. "/blog"
+url: "https://skhumedia.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
   name: MediaCenter Admin
   picture:
