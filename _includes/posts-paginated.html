@@ -5,7 +5,7 @@
 <!-- Pagination links -->
 <nav class="pager">
   <ul>
-    <!-- Page: {{ paginator.page }} of {{ paginator.total_pages }} -->
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
     {% if paginator.previous_page %}
       <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous"><span class="icon icon--arrow-right">{% include icon-arrow-left.svg %}</span> {{ site.data.theme.t.newer | default: 'Newer' }}</a></li>
     {% endif %}
