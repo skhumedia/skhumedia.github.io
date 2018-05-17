@@ -60,16 +60,17 @@ exclude:
   - .sass-cache
   - .scss-lint.yml
   - CHANGELOG
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
-  - node_modules
   - Rakefile
   - README
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+
+#  - Gemfile
+#  - Gemfile.lock
+#  - node_modules
+#  - vendor/bundle/
+#  - vendor/cache/
+#  - vendor/gems/
+#  - vendor/ruby/
 
 # 전면 매터 기본 값
 defaults:
