@@ -1,5 +1,5 @@
 ---
-title: 카테고리
+title: 모든 콘텐츠
 layout: categories
 permalink: /categories/
 ---

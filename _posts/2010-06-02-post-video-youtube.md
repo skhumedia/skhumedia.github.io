@@ -1,9 +1,9 @@
 ---
-title: "Post: Video (YouTube)"
+title: "스쿠터뉴스 22화"
 categories:
-  - Post Formats
+  - 스쿠터뉴스
 tags:
-  - Post Formats
+  - 스쿠터뉴스
 last_modified_at: 2017-03-23T15:33:37-04:00
 ---
 

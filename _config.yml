@@ -1,40 +1,41 @@
-# Welcome to Jekyll!
+# 지킬에 오신 것을 환영합니다!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+# 이 구성 파일은 전체 블로그, 값에 영향을 미치는 설정을 의미합니다.
+# 한번 설정해야 하며 그 후에는 편집하는 일이 거의 없습니다.
+# 자신이 이 파일을 매우 자주 편집하는 경우, 지킬 데이터 파일 사용을 고려해 보세요.
+# 기능의 사용을 중지하거나 계속할 경우, 자주 편집할 수도 있습니다.
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# 이 파일을 사용하게 되면 기술적인 이유로 다시 로드 됩니다.
+# 'bundle execJekoll services'라는 파일을 변경하는 경우 서버 프로세스를 다시 시작하십시오. (가능하면 편집하지 마세요.)
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-lang: en-US
-title: 미디어센터
-email: skhumedia@outlook.com
-description:
-baseurl: /skhumedia.github.io # the optional subpath of your site, e.g. "/blog"
-url: "https://skhumedia.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author: 
-  name: MediaCenter Admin
-  picture:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: true # true, false (default)
-search_full_content: false # true, false (default)
-search_provider: lunr # lunr (default), algolia
-algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
+# 사이트 설정
+# 새 사이트를 관리자가 설정하는데 사용됩니다. 만약 당신이 HTML파일을 본다면,
+# 이들이{{Site.title2}},{{Site.Mail2}}등을 통해 액세스 되는 것을 참조하세요.
+# 원하는 사용자 지정 변수를 생성할 수 있으며 이들 변수에 액세스 할 수 있습니다.
+# 템플릿에서 다음을 수행합니다.
 
-# Build settings
+lang: en-US # 사이트의 기본 언어를 설정합니다.
+title: 미디어센터 # 사이트의 이름을 설정합니다.
+email: skhumedia@outlook.com # 사이트의 기본 이메일을 지정합니다.
+description: # 다음은 요약입니다. (탭핑 된 영역 참조)
+baseurl: /skhumedia.github.io # 사용자 사이트의 선택적 하위 페이지를 설정합니다. (예: /site url)
+url: "https://skhumedia.github.io" # 당신의 사이트를 위한 기본 호스트 이름과 프로토콜을 설정합니다. "https://skhumedia.github.io"
+author: # 다음은 저자입니다. (탭핑 된 영역 참조)
+  name: MediaCenter Admin # 사이트 관리자는 MediaCenter Admin으로 표기합니다. (가능하면 편집하지 마세요.)
+  picture: # 미디어 센터의 로고가 들어갑니다.
+logo: # 사이트 로고 경로(예: /assets/images/logo.png)
+search: true # 검색기능을 끄거나 켭니다. (true or false)
+search_full_content: false # 검색의 기능을 강화합니다. (true or false)
+search_provider: lunr # 검색을 제공하는 참조영역을 설정합니다. (lunr or algolia)
+algolia: # 다음은 검색 기능을 제공하는 algolia 설정 입니다. (탭핑 된 영역 참조)
+  application_id: # YOUR_APPLICATION_ID 설정합니다.
+  index_name: # YOUR_INDEX_NAME 설정합니다.
+  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY 설정합니다.
+  powered_by: # true or false
+
+# 사이트 빌드 설정 (절대 편집하지 마세요.)
 markdown: kramdown
-plugins: # previsously gems
+plugins: # 이전 gems
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -42,11 +43,11 @@ plugins: # previsously gems
 feed:
   path: atom.xml
 
-# Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 6
-paginate_path: /page:num/
+# 페이지화 설정 부분 - https://jekyllrb.com/docs/pagination/
+paginate: 10 # 페이지 수를 지정합니다.
+paginate_path: /page:num/ # 페이지는 콘텐츠 수만큼 할당됩니다.
 
-# Exclude from processing.
+# 빠른 수행을 위해 제외한 것
 exclude:
   - .asset-cache
   - .bundle
@@ -68,7 +69,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-# Front Matter Defaults
+# 전면 매터 기본 값
 defaults:
   # _posts
   - scope:

@@ -1,7 +1,7 @@
-# Theme Skin
-skin: night # default, night, plum, sea, soft, steel
+# 테마 변경 설정입니다.
+skin: default # default, night, plum, sea, soft, steel
 
-# Theme Text
+# 테마 텍스트 설정입니다.
 t:
   skip_links: "링크 스킵하기"
   skip_primary_nav: "요약 스킵하기"
@@ -20,18 +20,18 @@ t:
   read_more: "더 자세히"
   posts: "올라온 글"
   page: "페이지"
-  of: "of"
-  min_read: "min read"
-  present: "Present"
+  of: "의"
+  min_read: "분 전에 읽음"
+  present: "현재"
 
-# Google Fonts
+# 구글 폰트
 google_fonts:
   - name: "Fira Sans"
     weights: "400,400i,600,600i"
 
-# Link to specific internal pages in the navigation.
-# Create a custom list to override the default setting of including links to all
-# pages that have a `title`. Add raw page paths in the order you'd like.
+# 아래 네비게이션에서 특정 내부 페이지로 연결합니다.
+# 사용자 지정 목록을 만들어 다음에 대한 링크 포함의 기본 설정을 재정의합니다.
+# 제목이 있는 페이지 원시 페이지 경로를 원하는 순서대로 추가합니다.
 
 navigation_pages:
   - about.md
