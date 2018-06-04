@@ -4,7 +4,7 @@
     {%- case search_provider -%}
       {%- when "lunr" -%}
         <label class="visually-hidden" for="search">{{ site.data.theme.t.site_search | default: 'Site Search' }}</label>
-        <input type="text" id="search" class="search-input" aria-describedby="results-count" tabindex="-1" placeholder="{{ site.data.theme.t.menu.search_placeholder_text | default: '검색어를 입력 후 기다려주세요...' }}" />
+        <input type="text" id="search" class="search-input" aria-describedby="results-count" tabindex="-1" placeholder="{{ site.data.theme.t.menu.search_placeholder_text | default: '검색어를 입력...' }}" />
         <div id="results" class="results"></div>
       {%- when "algolia" -%}
         <div tabindex="-1" class="search-searchbar"></div>
