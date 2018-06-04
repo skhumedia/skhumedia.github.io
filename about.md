@@ -34,7 +34,7 @@ layout: about
 <br/>
 
 
-
+![학교 오시는 길.](/assets/images/map.jpg)
 
 
 <center><h5>주소 | 서울특별시 구로구 연동로 320(항동) 성공회대학교 이천환기념관(정보과학관) 6104호</h5></center>
