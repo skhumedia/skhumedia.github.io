@@ -1,5 +1,5 @@
 # 테마 변경 설정입니다.
-skin: default # default, night, plum, sea, soft, steel
+skin: soft # default, night, plum, sea, soft, steel
 
 # 테마 텍스트 설정입니다.
 t:
