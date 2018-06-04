@@ -33,6 +33,8 @@ layout: about
 
 <br/>
 
-<center><h5>주소 | 서울특별시 구로구 연동로 320(항동) 성공회대학교 정보과학관 6104호</h5></center>
+![배너](/assets/images/map.png)
+<center><h5>주소 | 서울특별시 구로구 연동로 320(항동) 성공회대학교 이천환기념관(정보과학관) 6104호</h5></center>
+<center><h5>오시는 방법 | 온수역 1호선 또는 7호선 하차 후 도보 약 9분</h5></center>
 <center><h5>전화 | 02-2610-4380, 4395</h5></center>
 </center>
