@@ -1,5 +1,4 @@
 ---
-layout: collection
 title: "Chocolate Chip Cookies"
 image:
   path: ../assets/images/chocolate-chip-cookies-lg.jpg
