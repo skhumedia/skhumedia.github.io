@@ -6,4 +6,4 @@ image:
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
-![2016-1 미디어센터 모집 홍보영상](https://youtu.be/AXwWTVoXW4k)
+![2016-1 미디어센터 모집 홍보영상](https://www.youtube.com/watch?v=AXwWTVoXW4k)
