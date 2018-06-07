@@ -1,7 +1,6 @@
 ---
 title: "함께하는 참여언론"
 layout: home
-paginate: true
 image:
 ---
 

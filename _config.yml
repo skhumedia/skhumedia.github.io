@@ -71,6 +71,12 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+# 방송국 콜렉션 레시피
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+
 # 전면 매터 기본 값
 defaults:
   # _posts
